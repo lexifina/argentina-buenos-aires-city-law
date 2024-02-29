@@ -1,0 +1,2 @@
+Artículo 8°.- Los funcionarios encargados de hacer cumplir la ley respetarán la ley y el presente Código. También harán cuanto esté a su alcance por impedir toda violación de ellos y por oponerse vigorosamente a tal violación.
+Los funcionarios encargados de hacer cumplir la ley que tengan motivos para creer que se ha producido o va a producirse una violación del presente Código informarán de la cuestión a sus superiores y, si fuese necesario, a cualquier otra autoridad y organismo apropiado que tenga atribuciones de control o correctivas.

@@ -1,0 +1,1 @@
+Artículo 1°.- Los funcionarios encargados de hacer cumplir la ley cumplirán en todo momento los deberes que les impone la ley, sirviendo a su comunidad y protegiendo a todas las personas contra actos ilegales, en consonancia con el alto grado de responsabilidad exigido a su profesión.
