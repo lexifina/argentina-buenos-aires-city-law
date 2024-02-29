@@ -1,0 +1,4 @@
+Artículo 4°:
+La Junta de Ética, Acuerdos y Organismos de Control debe habilitar durante tres (3) días hábiles, un Registro para que los ciudadanos por sí o a través de organizaciones no gubernamentales hagan sus propuestas respecto de postulantes con los antecedentes curriculares que las fundamenten. Sólo son considerados candidatos aquellos postulantes que sean propuestos por algún diputado o diputada.
+La publicidad de la apertura y cierre del Registro debe efectuarse durante dos (2) días, por los medios previstos en el Artículo 23 de la Ley 6 #, para la publicidad de la Audiencia Pública.
+Vencido el plazo de cierre del Registro, debe realizarse la Audiencia Pública cumpliendo la totalidad del procedimiento establecido en el Título II, Capítulo VI, de la Ley 6 # (Audiencias Públicas para Designaciones y Acuerdos).
