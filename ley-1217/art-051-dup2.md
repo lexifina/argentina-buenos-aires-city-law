@@ -1,0 +1,2 @@
+art. 51.
+3. La Ley N° 6.192, BOCBA 5711 del 1/10/2019, dispone en su Cláusula Transitoria Primera que aquellas ejecuciones de certificado de deuda que tengan por objeto una falta prevista en el artículo 24 del Anexo A de la presente Ley que se encuentren en trámite en la Justicia Penal Contravencional y de Faltas al momento de su vigencia, concluirán en el mismo fuero donde se encontraban radicadas.
