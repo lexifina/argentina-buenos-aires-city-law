@@ -1,0 +1,2 @@
+Artículo 38- A las actividades en funcionamiento y preexistentes al 10 de Diciembre de 1998 que estén a cargo de organismos públicos, les será aplicable un régimen de adecuación especial según establezca la Autoridad de Aplicación, teniendo en cuenta sus particularidades y el fin público comprometido. Aquellas actividades categorizadas como de Impacto Ambiental Con Relevante Efecto deberán cumplir al menos con la presentación del Estudio Técnico de Impacto Ambiental.
+XX – DEL REGISTRO DE EVALUACIÓN AMBIENTAL
