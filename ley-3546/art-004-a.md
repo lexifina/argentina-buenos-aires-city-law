@@ -1,0 +1,1 @@
+Artículo 4º - A los fines previstos en la presente ley se deberá reservar un número de localidades destinado a personas con discapacidad equivalentes al dos por ciento (2%) de la capacidad total del lugar en donde se lleve a cabo el espectáculo. Cuando la demanda supere la previsión del cupo indicado el agotamiento del mismo deberá documentarse debidamente.
