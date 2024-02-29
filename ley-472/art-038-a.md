@@ -1,0 +1,1 @@
+Artículo 38 - A los efectos de viabilizar lo dispuesto en el artículo 38 de la presente norma, el Directorio de la Ob.S.B.A. propondrá a la Legislatura y al Gobierno de la Ciudad, el dictado de las normas y disposiciones que se estimen necesarias para materializar tal integración y compatibilizar los regímenes de aplicación.

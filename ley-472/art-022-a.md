@@ -1,0 +1,3 @@
+Artículo 22 - A fin de favorecer los objetivos institucionales planteados, corresponderá al Directorio contemplar que dentro de la planificación y funcionamiento de la Obra Social, se asegure que:
+a. El presupuesto general de la entidad, así como su efectiva ejecución, prevea que los recursos económicos asignados al otorgamiento de los servicios y prestaciones de salud, no resulte inferior al ochenta por ciento (80%) del total de los recursos disponibles;
+b. Los gastos de administración previstos en el presupuesto general de la entidad, como también durante su efectivización, no superen el ocho por ciento (8%) de los recursos disponibles por la entidad CAPÍTULO VI FISCALIZACIÓN
