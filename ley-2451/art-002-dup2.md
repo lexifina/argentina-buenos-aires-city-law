@@ -1,0 +1,2 @@
+Artículo 2°.- Interpretación- En las causas penales seguidas contra personas que tengan entre dieciséis (16) y dieciocho (18)
+años de edad se procederá conforme las disposiciones del Código Procesal Penal de la Ciudad Autónoma de Buenos Aires en cuanto no sea modificado por lo establecido en este Régimen Procesal Penal Juvenil, y siempre que no restrinja derecho alguno reconocido por la Ley de Protección Integral de Derecho de los Niños, Niñas y Adolescentes de la Ciudad de Buenos Aires .

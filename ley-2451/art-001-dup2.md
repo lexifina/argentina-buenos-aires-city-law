@@ -1,0 +1,1 @@
+Artículo 1º.- Ámbito personal- Esta ley se aplica a todas las personas que tengan entre dieciséis (16) y dieciocho (18) años de edad no cumplidos al momento de ocurrir los hechos objeto de una investigación preparatoria.
