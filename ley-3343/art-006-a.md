@@ -1,0 +1,1 @@
+Artículo 6º - A todas las reuniones de la Mesa de Gestión y Planeamiento Multidisciplinaria y Participativa creada por el artículo 5º de la presente norma se convocará a los/as delegados/as y vecinos/as del barrio, quienes podrán expresar su voz en el ámbito de la misma, los que podrán participar en toda aquella decisión que los afecte especialmente.
