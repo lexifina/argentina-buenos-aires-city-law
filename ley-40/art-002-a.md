@@ -1,0 +1,1 @@
+Artículo 2º - A todos los efectos de esta ley, se considera el padrón electoral del distrito utilizado en las últimas elecciones de autoridades locales que se hayan realizado con anterioridad a la presentación de la iniciativa.
