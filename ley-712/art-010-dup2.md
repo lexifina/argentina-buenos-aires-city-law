@@ -1,0 +1,1 @@
+Artículo 10 - Ninguna investigación relativa al genoma humano ni sus aplicaciones, en particular en las esferas de la biología, la genética y la medicina, podrán prevalecer sobre el respeto de los derechos humanos, de la libertades fundamentales y de la dignidad humana de los individuos o, si procede, de los grupos humanos.

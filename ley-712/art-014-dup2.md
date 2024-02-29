@@ -1,0 +1,1 @@
+Artículo 14 - Los Estados tomarán las medidas apropiadas para favorecer las condiciones intelectuales y materiales propicias para el libre ejercicio de las actividades de investigación sobre el genoma humano y para tener en cuenta las consecuencias éticas, legales, sociales y económicas de dicha investigación, basándose en los principios establecidos en la presente Declaración.

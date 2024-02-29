@@ -1,0 +1,1 @@
+Artículo 8 - Toda persona tendrá derecho, de conformidad con el derecho internacional y el derecho nacional, a una reparación equitativa del daño de que haya sido víctima, cuya causa directa y determinante haya sido una intervención en su genoma.

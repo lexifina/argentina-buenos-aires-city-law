@@ -1,0 +1,1 @@
+Artículo 3 - El genoma humano, por naturaleza evolutivo, está sometido a mutaciones. Entraña posibilidades que se expresan de distintos modos en función del entorno social de cada persona, que comprende su estado de salud individual, sus condiciones de vida, su alimentación y su educación.

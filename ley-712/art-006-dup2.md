@@ -1,0 +1,1 @@
+Artículo 6 - Nadie podrá ser objeto de discriminaciones fundadas en sus características genéticas, cuyo objeto o efecto sería atentar contra sus derechos y libertades fundamentales y el reconocimiento de su dignidad.

@@ -1,0 +1,1 @@
+Artículo 1 - El genoma humano es la base de la unidad fundamental de todos los miembros de la familia humana y del reconocimiento de su dignidad y diversidad intrínsecas. En sentido simbólico, el genoma humano es el patrimonio de la humanidad.

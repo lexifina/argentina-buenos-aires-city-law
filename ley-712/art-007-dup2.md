@@ -1,0 +1,1 @@
+Artículo 7 - Se deberá proteger en las condiciones estipuladas por ley la confidencialidad de los datos genéticos asociados con una persona identificable, conservados o tratados con fines de investigación o cualquier otra finalidad.
