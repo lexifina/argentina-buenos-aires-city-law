@@ -1,0 +1,1 @@
+Artículo 2°.- Las relaciones que la Auditoría General de la Ciudad de Buenos Aires en virtud de la normativa vigente, deba entablar con la Legislatura de la Ciudad, se efectúan a través de su Presidente.

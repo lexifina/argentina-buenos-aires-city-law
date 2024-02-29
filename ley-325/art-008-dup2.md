@@ -1,0 +1,1 @@
+Artículo 8°.- La Dirección de Planificación formará un expediente con la documentación presentada por cada postulante y elevará a la Comisión de Supervisión el listado de profesionales independientes y las empresas de auditoría y consultoría que se hubieran inscripto en el registro.

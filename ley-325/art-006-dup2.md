@@ -1,0 +1,1 @@
+Artículo 6°.- La inscripción se efectuará contra la presentación de un currículum vitae, del documento nacional de identidad y los antecedentes de las empresas, cuando correspondiere, otorgándose a cada postulante el respectivo número de inscripción. En dicho acto, cada uno de ellos deberá firmar la aceptación de las disposiciones contenidas en el presente.

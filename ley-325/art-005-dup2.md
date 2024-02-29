@@ -1,0 +1,2 @@
+Artículo 5°.- La Auditoría General de la Ciudad de Buenos Aires procederá a publicar el llamado a inscripción en el REPACE durante tres (3) días hábiles en el Boletín Oficial de la Ciudad Autónoma de Buenos Aires y en un (1) diario de amplia circulación en el ámbito de la Ciudad.
+En el supuesto de especialidades en las que resultare conveniente la convocatoria de firmas de auditoría o consultoría extranjeras, se procederá a la difusión del llamado en alguna publicación especializada de circulación internacional, así como en el periódico de las Naciones Unidas.

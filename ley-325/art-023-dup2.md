@@ -1,0 +1,1 @@
+Artículo 23.- La propiedad intelectual de la obra o de los trabajos es de la AGC. El contratado deberá guardar absoluta reserva y confidencialidad sobre toda la información y documentación a la cual tenga acceso en el cumplimiento de su labor, con arreglo a las Normas sobre Reserva de la Información y Documentación y Preservación de Materiales Recibidos.

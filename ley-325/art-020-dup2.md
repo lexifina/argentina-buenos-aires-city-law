@@ -1,0 +1,3 @@
+Artículo 20.- El contrato no podrá ser transferido ni cedido. En caso de infracción a esta norma el contrato se declarará resuelto de pleno derecho.
+Si el contratado fuese una sociedad comercial, estará obligado a comunicar a la AGC la transferencia parcial o total de su capital. Si de ello derivara algún cambio que, a juicio de la AGC, modificara las condiciones tenidas en cuenta para discernir la contratación, ésta podrá resolverlo de pleno derecho, sin lugar a que el contratante tenga derecho a resarcimiento alguno.
+Si el contratado fuese una sociedad civil, y la contratación se hubiese realizado por la capacidad y calidad de sus integrantes, cualquier baja o reemplazo de éstos facultará a la AGC a disponer la resolución del contrato sin lugar a resarcimiento alguno.

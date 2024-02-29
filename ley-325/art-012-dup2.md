@@ -1,0 +1,1 @@
+Artículo 12.- Sobre la base de los antecedentes acumulados en el REPACE, las Direcciones, dentro de los cinco (5) días de recibido el listado, preseleccionarán entre los incluidos en dicho listado, a aquellos profesionales independientes y/o empresas de auditoría y consultoría que respondan al perfil requerido para la integración de los equipos de trabajo.

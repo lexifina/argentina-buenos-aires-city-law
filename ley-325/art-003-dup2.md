@@ -1,0 +1,3 @@
+Artículo 3°.- La Auditoría General de la Ciudad de Buenos Aires, organizará y mantendrá el presente Registro, en un todo de acuerdo con los siguientes recaudos:
+1. La AGC llevará un legajo individual de cada auditor o consultor, en el cual se acumularán todos los antecedentes relacionados con su inscripción, idoneidad, cumplimiento del o los contratos celebrados con la AGC, sanciones que se le hubieren aplicado con motivo de su ejecución y demás datos de interés.
+2. Se le asignará el correspondiente número de inscripción a cada profesional independiente y/o empresa de auditoría y consultoría, el que deberá ser consignado en todos los trámites inherentes a la contratación.
