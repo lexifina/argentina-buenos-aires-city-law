@@ -1,0 +1,1 @@
+Artículo 6° - A fin de lograr la calificación de los/as jóvenes, se implementarán acciones formativas que comprenderán una fase de aprendizaje y otra de práctica profesional en el puesto de trabajo en las empresas.
