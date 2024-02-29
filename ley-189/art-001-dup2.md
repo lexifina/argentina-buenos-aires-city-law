@@ -1,0 +1,2 @@
+Artículo 1º.- De las Autoridades Administrativas-.
+Se consideran autoridades administrativas de la Ciudad de Buenos Aires la administración pública centralizada, desconcentrada y descentralizada, los órganos legislativo y judicial de la Ciudad de Buenos Aires, en ejercicio de la función administrativa y los entes públicos no estatales o privados en cuanto ejerzan potestades públicas otorgadas por las leyes de la Ciudad de Buenos Aires.

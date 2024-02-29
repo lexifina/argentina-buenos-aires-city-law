@@ -1,0 +1,2 @@
+Artículo 2º.- De las Causas Contencioso Administrativas-.
+Son causas contencioso administrativas a los efectos de este Código todas aquellas en que una autoridad administrativa, legitimada para estar en juicio, sea parte, cualquiera que sea su fundamento u origen, tanto en el ámbito del derecho público como del derecho privado. La competencia contenciosa administrativa y tributaria es de orden público.

@@ -1,0 +1,5 @@
+Artículo 3º.- De las Condiciones de Ejercicio-.
+1. Es condición de ejercicio de la acción contencioso administrativa:
+2. Cuando se trate de actos administrativos de alcance particular definitivos o equiparables, dictados de oficio o a petición de parte; es necesario el agotamiento de la instancia administrativa por medio de las vías recursivas pertinentes;
+3. Cuando se trata de actos administrativos de alcance general, es necesario el agotamiento de la instancia administrativa por medio de reclamo, siendo de aplicación lo dispuesto en el artículo 8º de este código 4. Cuando se trate de actos administrativos de alcance general a los que se le haya dado aplicación mediante actos administrativos definitivos o equiparables, es necesario el agotamiento de la instancia administrativa por medio de las vías recursivas pertinentes;
+La impugnación de reglamentos o actos administrativos de alcance general por vía de actos de aplicación particular, no habilita la revisión de actos de aplicación anterior no impugnados administrativa o judicialmente.

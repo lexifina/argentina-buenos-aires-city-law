@@ -1,0 +1,2 @@
+Artículo 362.- Depósito y examen de los interrogatorios-.
+En el caso del artículo anterior el interrogatorio queda a disposición de la parte contraria, la que puede, dentro de quinto día, proponer preguntas. El/la juez/a examina los interrogatorios, pudiendo eliminar las preguntas superfluas y agregar las que considere pertinentes. Asimismo, fija el plazo dentro del cual la parte que ofreció la prueba tiene la carga de informar acerca del tribunal en que ha quedado radicado el exhorto u oficio y la fecha de la audiencia, bajo apercibimiento de tenerlo por desistido.
