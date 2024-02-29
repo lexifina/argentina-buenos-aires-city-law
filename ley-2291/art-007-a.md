@@ -1,0 +1,1 @@
+Artículo 7° - A los fines de lo dispuesto en el artículo 2°, el Poder Ejecutivo, a través de la Dirección General de Sistemas de Información dependiente del Ministerio de Descentralización y Gestión Pública, desarrollará los aspectos técnicos necesarios para instrumentar la integración al precitado Sistema de Atención Telefónica de Emergencias.

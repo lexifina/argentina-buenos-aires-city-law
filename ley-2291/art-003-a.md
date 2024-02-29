@@ -1,0 +1,1 @@
+Artículo 3° - A los fines de incorporar al sistema creado por el artículo 1° los números de emergencia de la jurisdicción nacional: 100 (Bomberos), 101 (Comando Radioeléctrico) y 132 (Lucha Contra la Drogadependencia), el Ministerio de Gobierno dispondrá la implementación en forma coordinada con el Ministerio del Interior de la Nación.
