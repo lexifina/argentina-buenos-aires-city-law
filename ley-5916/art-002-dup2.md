@@ -1,0 +1,2 @@
+Artículo 2°.- Los contratos de participación público-privada constituyen un régimen propio e independiente respecto de los contratos regulados por las Leyes Nacionales Nº 13.064 # y Nº 17.520 # y sus modificatorias, y la Ley N° 2.095 #, su decreto reglamentario y modificatorios.
+En los casos en que los contratos de participación público-privada involucren la prestación de servicios públicos regidos por marcos regulatorios específicos, dichos marcos regulatorios resultarán de aplicación a la prestación de tales servicios.
