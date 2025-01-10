@@ -1,0 +1,1 @@
+Artículo 4°.- Créase un Registro Único y Obligatorio de Asistentes Gerontológicos. El mismo será público y gratuito. Los Asistentes Gerontológicos que se desempeñen en el ámbito de la Ciudad Autónoma de Buenos Aires deberán inscribirse.
