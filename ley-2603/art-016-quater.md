@@ -1,0 +1,3 @@
+Artículo 16 quater. Criterios de asignación. La distribución de los juicios se efectuará de manera equitativa y transparente, a través de un sistema de sorteo electrónico o de rotación previamente aprobado por la Administración Gubernamental de Ingresos Públicos, garantizando en todo momento la trazabilidad del procedimiento.
+Como criterio general, en los supuestos de existencia de más de un título de deuda tributaria correspondiente al mismo contribuyente, y al mismo período fiscal, deberá ser asignado a un mismo mandatario.
+(Artículo 16 quater incorporado por el artículo 5° de la Ley 6843, publicada en el Boletín Oficial 7215 del 30/09/2025)

@@ -1,0 +1,6 @@
+Artículo 16 bis. Designación, representación y remoción. El cuerpo de mandatarios judiciales está compuesto por hasta cien (100) profesionales, quienes deben poseer una antigüedad no menor de cinco (5) años en la matrícula del Colegio Público de la Abogacía de la Capital Federal.
+El procedimiento de selección para su designación se lleva a cabo mediante estricto concurso público abierto de antecedentes y oposición, a cargo conjuntamente de la Procuración General de la Ciudad Autónoma de Buenos Aires y la Administración Gubernamental de Ingresos Públicos.
+Siempre que haya por lo menos un cinco por ciento (5%) de vacantes de la totalidad del cuerpo de mandatarios judiciales, se sustancia el concurso correspondiente.
+En todos los casos, la designación quedará perfeccionada con el otorgamiento del poder correspondiente por parte de la Procuración General, la cual establece asimismo las condiciones y formalidades de presentación de la documentación requerida.
+La Administración Gubernamental de Ingresos Públicos posee la potestad de remoción en función de los resultados de las evaluaciones de desempeño. Resuelta la remoción, la Procuración General procede a la revocación del poder conferido.
+(Artículo 16 bis incorporado por el artículo 3° de la Ley 6843, publicada en el Boletín Oficial 7215 del 30/09/2025)
