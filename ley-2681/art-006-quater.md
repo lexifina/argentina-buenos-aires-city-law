@@ -1,0 +1,2 @@
+Artículo 6° quater.- El Ministerio de Educación permitirá que los establecimientos educativos de gestión privada incorporados a la enseñanza oficial puedan contar con hasta tres (3) Acompañantes para la Inclusión Escolar por aula. Cada acompañante podrá brindar los apoyos necesarios para la inclusión de hasta dos (2) alumnos o alumnas.
+(Artículo 6° quater incorporado por el artículo 7° de la Ley 6.872, publicada en el Boletín Oficial 7282 del 13/01/2026).

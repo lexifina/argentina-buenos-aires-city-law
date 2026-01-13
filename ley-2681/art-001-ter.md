@@ -1,0 +1,2 @@
+Artículo 1° ter .- Los establecimientos educativos de gestión privada incorporados a la enseñanza oficial deben garantizar a las familias interesadas información clara y veraz sobre los procedimientos y plazos de inscripción y los criterios pedagógicos y organizativos de su propuesta educativa.
+(Artículo 1° ter incorporado por el artículo 2° de la Ley 6.872, publicada en el Boletín Oficial 7282 del 13/01/2026).

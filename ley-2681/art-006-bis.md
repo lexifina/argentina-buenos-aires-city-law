@@ -1,0 +1,2 @@
+Artículo 6° bis.- El Ministerio de Educación debe promover, en las instituciones educativas de gestión privada incorporadas a la enseñanza oficial, la incorporación de figuras de Apoyo a la Inclusión con funciones orientadas al acompañamiento pedagógico de los equipos docentes y al fortalecimiento de los aprendizajes de los y las estudiantes, de acuerdo a los procedimientos y normativa vigente.
+(Artículo 6° bis incorporado por el artículo 5° de la Ley 6.872, publicada en el Boletín Oficial 7282 del 13/01/2026).
