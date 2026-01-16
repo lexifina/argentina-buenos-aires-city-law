@@ -1,0 +1,5 @@
+Artículo 184- Detención por peligro de fuga El/la Fiscal solicita al/la juez/jueza competente, por resolución fundamentada la detención del/la imputado/a cuando exista peligro de fuga o de entorpecimiento del proceso.
+Cuando el imputado sea detenido en flagrancia o por orden judicial el fiscal intimará el hecho en el menor tiempo posible, dentro de las veinticuatro (24) horas de iniciada su privación de libertad y dispondrá su libertad desde la sede de la fiscalía, en forma irrestricta o bajo caución u otra medida restrictiva que no implique privación de libertad, o solicitará audiencia de prisión preventiva al tribunal.
+Según la complejidad del caso, el plazo fijado a dichos efectos podrá ser prorrogado por otras veinticuatro (24) horas.
+En caso de conformidad de la defensa con la medida restrictiva no será necesaria la convalidación judicial. Si hubiera disconformidad, la defensa podrá solicitar la celebración de audiencia para que al/la Juez/a deje sin efecto o convalide la modalidad restrictiva de libertad dispuesta por la fiscalía.
+De lo actuado se dejará constancia en acta.

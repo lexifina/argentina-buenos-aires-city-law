@@ -1,0 +1,2 @@
+Artículo 1°.- Interpretación- Este Código deberá interpretarse como un reglamento de la Constitución Nacional #, los tratados internacionales de derechos humanos ratificados por la República Argentina # y la Constitución de la Ciudad de Buenos Aires #.
+Toda disposición legal que coarte la libertad personal, que limite el ejercicio de un derecho atribuido por este Código, o que establezca sanciones procesales, deberá ser interpretada restrictivamente.

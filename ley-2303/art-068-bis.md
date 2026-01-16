@@ -1,0 +1,4 @@
+Artículo 68 bis.- Comunicaciones a la Dirección Nacional de Migraciones. Personas extranjeras.
+Los tribunales que dicten sentencia condenatoria, deberán comunicar dichas resoluciones a la Dirección Nacional de Migraciones cuando se trate de personas extranjeras.
+El Tribunal a cargo de la ejecución de la pena deberá comunicar a la Dirección Nacional de Migraciones cuando, respecto de la persona extranjera que se encuentre cumpliendo pena privativa de la libertad, se verifique el supuesto previsto en el Artículo, 64 inciso a) de la Ley Nacional N° 25.871. Deberá también comunicarse a dicho organismo la firmeza de la condena de ejecución condicional, requiriéndole se haga saber al Tribunal la ejecución del extrañamiento.
+(Artículo 68 bis incorporado por el artículo 1° de la Ley 6.729, publicada en el Boletín Oficial 6906 del 04/07/2024).
