@@ -1,0 +1,1 @@
+Artículo 1°- Lesividad -. El Código Contravencional de la Ciudad Autónoma de Buenos Aires sanciona las conductas que por acción u omisión dolosa o culposa implican daño o peligro cierto para los bienes jurídicos individuales o colectivos protegidos.

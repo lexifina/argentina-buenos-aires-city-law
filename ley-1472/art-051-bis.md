@@ -1,0 +1,2 @@
+Artículo 51 bis.- El Registro de Contravenciones debe contar con un apartado denominado "Registro de infractores a la Ley de Maltrato Animal", en el que se registre a las personas condenadas por las contravenciones previstas en los artículos 141, 143 y 143 bis. El Registro de infractores a la Ley de Maltrato Animal, debe expedir, en forma gratuita y a solicitud de la persona titular de los datos, los certificados relativos a dichas inscripciones.
+(Artículo 51 bis incorporado por el artículo 4° de la Ley 6.839, publicada en el Boletín Oficial 7228 del 20/10/2025).

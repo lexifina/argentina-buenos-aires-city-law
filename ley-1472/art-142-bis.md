@@ -1,0 +1,2 @@
+Artículo 142 bis - Dejar a un animal doméstico en un vehículo cerrado.- Quien deje a un animal doméstico en un vehículo sin circulación de aire adecuada y por un tiempo desproporcionado que pueda afectar su integridad física o emocional, y siempre que la conducta no implique delito, es sancionado/a con treinta (30) a sesenta (60) días de trabajo de utilidad pública o multa de dos mil (2.000) a tres mil quinientas (3.500) Unidades Fijas.
+(Artículo 142 bis incorporado por el artículo 9° de la Ley 6.839, publicada en el Boletín Oficial 7228 del 20/10/2025).

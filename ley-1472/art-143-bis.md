@@ -1,0 +1,4 @@
+Artículo 143 bis - Cría ilegal de animales.- Quien instale o mantenga en funcionamiento criaderos de animales en el ámbito de la Ciudad, y siempre que la conducta no implique delito, es sancionado/a con sesenta (60) a noventa (90) días de trabajo de utilidad pública o multa de tres mil (3.000) a cinco mil (5.000) Unidades fijas o treinta (30) a sesenta (60) días de arresto, además del secuestro de los animales vinculados a la conducta ilegal.
+En todos los casos se aplica conjuntamente la sanción de prohibición de tutela y de contacto con animales domésticos por el plazo de seis (6) meses hasta dos (2) años. La prohibición comprende la restricción para el/la condenado/a de interactuar de cualquier forma con animales domésticos.
+(Artículo 143 bis incorporado por el artículo 11 de la Ley 6.839, publicada en el Boletín Oficial 7228 del 20/10/2025).
+DISPOSICIÓN COMPLEMENTARIA
