@@ -1,0 +1,2 @@
+Artículo 23 bis.- El/la trabajador/a con discapacidad tiene derecho a una licencia con goce de haberes de diez (10) días corridos o discontinuos por año calendario para la realización de trámites, tratamientos y/o controles y chequeos médicos y/o de salud indicados de acuerdo a la discapacidad.
+(Artículo 23 bis incorporado por el artículo 3° de la Ley 6.954, publicada en el Boletín Oficial 7417 del 28/07/2026).

@@ -1,0 +1,2 @@
+Artículo 20 bis.- Los/as trabajadores/as comprendidos/as en la presente Ley tienen derecho a una licencia por cuidado, atención o acompañamiento de cónyuge, conviviente que se someta a técnicas de reproducción humana asistida de hasta cinco (5) días por calendario, con pleno goce de haberes.
+(Artículo 20 bis incorporado por el artículo 2° de la Ley 6.954, publicada en el Boletín Oficial 7417 del 28/07/2026).

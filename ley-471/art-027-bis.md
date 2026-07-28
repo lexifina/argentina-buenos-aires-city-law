@@ -1,0 +1,2 @@
+Artículo 27 bis. En los casos en los cuales por decisión judicial se otorgue al/la trabajador/a la guarda de un/a niño, niña o adolescente, en los términos del artículo 657 de Código Civil y Comercial de la Nación, corresponde una licencia equivalente a las establecidas en el artículo 27, según lo especificado en cada una de sus pautas.
+(Artículo 27 bis incorporado por el artículo 9° de la Ley 6.954, publicada en el Boletín Oficial 7417 del 28/07/2026).
