@@ -1,0 +1,2 @@
+Artículo 8° bis.- Disposición de los autos de afectación de uso público. El Poder Ejecutivo remitirá semestralmente a la Comisión de Tránsito y Transporte de la Legislatura de la Ciudad Autónoma de Buenos Aires, un informe donde se detallen la cantidad de autos afectados al uso público, área de afectación e informe técnico de las unidades para el periodo correspondiente.
+(Artículo 8° bis incorporado por el artículo 5° de la Ley 6.998, publicada en el Boletín Oficial 7465 del 1/10/2026).

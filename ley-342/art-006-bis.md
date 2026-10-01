@@ -1,0 +1,2 @@
+Artículo 6° bis.- Destino del vehículo. Vencidos los plazos establecidos en los artículos 2° y 3°, la Autoridad de Aplicación dispondrá por razones de mérito, oportunidad y conveniencia el destino del vehículo, que podrá ser: descontaminación, desguace y compactación, o la afectación al uso público.
+(Artículo 6° bis incorporado por el artículo 2° de la Ley 6.998, publicada en el Boletín Oficial 7465 del 1/10/2026).
