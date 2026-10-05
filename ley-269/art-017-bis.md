@@ -1,0 +1,4 @@
+Artículo 17 bis.- JUEGOS DE AZAR Y APUESTAS EN LÍNEA. Las personas inscriptas en el Registro Público de Alimentantes Morosos no podrán abrir, mantener operativas cuentas de usuario ni realizar transacciones o apuestas en plataformas de juegos de azar, destreza y apuestas en línea autorizadas en la Ciudad Autónoma de Buenos Aires.
+Quienes exploten, comercialicen u operen dichas plataformas deberán requerir la verificación de no inclusión en el Registro Público de Alimentantes con carácter previo a la habilitación de la cuenta de usuario y al procesamiento de toda operación de depósito, apuesta o retiro.
+En caso de detectarse la inscripción de un usuario existente, el operador deberá suspender de inmediato la cuenta para realizar operaciones de juego o apuesta e informar tal situación al Registro y al órgano judicial interviniente.
+(Artículo 17 bis incorporado por el Artículo 1° de la Ley 6.971, publicado en el Boletín Oficial 7467 del 05/10/2026).

@@ -1,0 +1,3 @@
+Artículo 17 ter.- INTEROPERABILIDAD Y PROTECCIÓN DE DATOS PERSONALES. El Poder Ejecutivo, a través del área a cargo del Registro y en articulación con Lotería de la Ciudad de Buenos Aires Sociedad del Estado (LOTBA S.E.), implementará los mecanismos informáticos de consulta automatizada e interoperable en tiempo real.
+Las consultas efectuadas por las plataformas operadoras se limitarán a la constatación del estado registral del usuario y no podrán ser utilizadas, conservadas ni cedidas para fines comerciales, publicitarios ni de perfilamiento, en el marco de la Ley 1845 de la Ciudad Autónoma de Buenos Aires.
+(Artículo 17 ter incorporado por el Artículo 2° de la Ley 6.971, publicado en el Boletín Oficial 7467 del 05/10/2026).

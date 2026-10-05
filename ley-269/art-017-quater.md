@@ -1,0 +1,3 @@
+Artículo 17 quater.- SANCIONES. El incumplimiento por parte de los titulares de licencias, permisos o autorizaciones de juego en línea de los deberes de verificación establecidos en la presente Ley será sancionado por LOTBA S.E. de conformidad con el régimen disciplinario y sancionatorio previsto en la normativa regulatoria del juego de azar y los respectivos pliegos de concesión o autorización, sin perjuicio de las sanciones previstas en el Régimen de Faltas de la Ciudad Autónoma de Buenos Aires (Artículo 17 quater incorporado por el Artículo 3° de la Ley 6.971, publicado en el Boletín Oficial 7467 del 05/10/2026).
+Antecedentes Normativos:
+(Artículo 14 incorporado por el artículo 13 de la Ley 6771, publicada en el Boletín Oficial 7042 del 21/01/2025).
