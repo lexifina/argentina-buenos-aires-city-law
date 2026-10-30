@@ -1,0 +1,11 @@
+{
+  "path": "ar-c",
+  "code": "AR-C",
+  "name": "Buenos Aires City",
+  "level": "autonomous city",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-buenos-aires-city-law",
+  "build": "built: constitution, codes and laws (119 norms, 119 versions) from https://boletinoficial.buenosaires.gob.ar/normativaba",
+  "language": "es",
+  "sources": 1
+}

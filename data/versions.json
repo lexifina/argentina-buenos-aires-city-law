@@ -1,0 +1,1671 @@
+{
+ "country": "AR-C",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la Ciudad Autónoma de Buenos Aires",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/26766",
+   "versions": [
+    {
+     "from": "1996-10-01",
+     "units": 141,
+     "source_url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/26766#texto-original",
+     "sha256": "cd94b90b0989d8aaf9f39fe9ed6d4f27a238d8ab4b30bc5e2ebfcbd07bb14b27"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3",
+   "short": "Ley 3",
+   "title": "Ley 3: LEY ORGÁNICA DE LA DEFENSORÍA DEL PUEBLO DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - DEFENSA DE LOS DERECHOS FRENTE A LOS ACTOS HECHOS U OMISIONES DE LA ADMINISTRACIÓN PÚBLICA - OMBUDSMAN - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACIÓN DEL DIGESTO JURÍDICO)",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/17",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 42,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=17&idf=1",
+     "sha256": "391ee191822194d340b629be3507e46b7fffdc7bf4e763cd751fe70975ed434c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-6",
+   "short": "Ley 6",
+   "title": "Ley 6: REGULA EL INSTITUTO DE LA AUDIENCIA PÚBLICA - AUDIENCIAS PÚBLICAS TEMÁTICAS DE REQUISITORIA CIUDADANA Y PARA DESIGNACIONES Y ACUERDOS - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACIÓN DEL DIGESTO JURÍDICO)",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/23170",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 62,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=23170&idf=2",
+     "sha256": "47236d2f507d72b4e4da3840b3502ae9b021e43a66ded56cdbc88eab0bfccfee"
+    }
+   ]
+  },
+  {
+   "slug": "ley-40",
+   "short": "Ley 40",
+   "title": "Ley 40: FE DE ERRATAS. LEY DE PROCEDIMIENTO DE INICIATIVA POPULAR - INICIATIVA LEGISLATIVA - PRESENTACIÓN DE PROYECTOS DE LEY POR PARTE DE LOS ELECTORES DE LA CIUDAD - ELECTORES - PADRÓN ELECTORAL - MATERIA PROPIA DE LA LEGISLATURA DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - CONTENIDO - REQUISITOS - COM",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/27074",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 21,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=27074&idf=1",
+     "sha256": "b8111f3564f8b1ede9cb60ab16c888e6659c0c101956e9f86ba0651de6d392cd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-89",
+   "short": "Ley 89",
+   "title": "Ley 89: REGLAMENTA LOS INSTITUTOS DE REFERÉNDUM Y CONSULTA POPULAR - PARTICIPACIÓN SOCIAL - RESULTADO VINCULANTE Y NO VINCULANTE - VOTO OBLIGATORIO - VOTO NO OBLIGATORIO - OPINIÓN DEL ELECTORADO - DIFUSIÓN - ACTO ELECCIONARIO - CONVOCATORIA A REFERÉNDUM - LEY QUE NO PUEDE SER VETADA - REFERÉNDUM E I",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/34025",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 24,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=34025&idf=1",
+     "sha256": "2343395a71ffc4132427b97decfeda6adf8c7429be4b7343143ba47f464f5cc0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-104",
+   "short": "Ley 104",
+   "title": "Ley 104: LEY DE ACCESO A LA INFORMACIÓN - CONSAGRA EL DERECHO DE LOS CIUDADANOS A SOLICITAR Y RECIBIR INFORMACIÓN ADECUADA DE LOS ÓRGANOS DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD, SOBRE SU ACTIVIDAD ADMINISTRATIVA - MODIFICA LA LEY DE PROCEDIMIENTO ADMINISTRATIVOS - PUBLICIDAD DE LOS ACTOS DE GOBIE",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/982",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 36,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=982&idf=1",
+     "sha256": "898d6df615b2659f5b32d8acdf8d155cacb35505e2a2a38459159c1e54280f2d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-325",
+   "short": "Ley 325",
+   "title": "Ley 325: FE DE ERRATAS:BOCBA 896 DEL 7/3/2000 -APRUEBA - NORMAS DE LA AUDITORIA GENERAL DE LA CIUDAD DE BUENOS AIRES - ESTRUCTURA ORGÁNICO FUNCIONAL - PLAN DE AUDITORÍA - NIVELES ESCALAFONARIOS Y SALARIALES CORRESPONDIENTES AL PERSONAL - REGISTRO Y REGLAMENTO DE CONTRATACIÓN DE PROFESIONALES INDEPEN",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/6177",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 63,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=6177&idf=1",
+     "sha256": "796b985d238df5950d10acb42a7c3a2d01b7d555e03a7fece43e1b30a4e222a3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-712",
+   "short": "Ley 712",
+   "title": "Ley 712: LEY DE GARANTÍAS - PATRIMONIO GENÉTICO HUMANO - PROHIBE EN LA CIUDAD DISCRIMINACIÓN DE PERSONAS O MIEMBROS DE SUS FAMILIAS - INFORMACIÓN GENÉTICA O SERVICIOS GENÉTICOS - EXCLUSIONES - VIOLACIÓN DE CLAÚSULAS - GARANTIZA Y RESGUARDA EL DERECHO A LA DIGNIDAD - IDENTIDAD E INTEGRIDAD DE TODAS L",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/17360",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 41,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=17360&idf=1",
+     "sha256": "3375f88dde3c359c610e66753f933dbad9056633bc26eacb84c3a55782a7c9ab"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1384",
+   "short": "Ley 1.384",
+   "title": "Ley 1.384: PROCEDIMIENTO DE ELECCIÓN - REPRESENTANTE ASOCIACIONES DE CONSUMIDORES Y USUARIOS - OCUPAR VOCALÍA - DIRECTORIO DEL ENTE ÙNICO REGULADOR - SERVICIOS PÚBLICOS DE LA CIUDAD - REQUISITOS - AUDIENCIA PÚBLICA DE DESIGNACIONES Y ACUERDOS - COMISIÓN PERMANENTE DE DEFENSA DE LOS DERECHOS DE LOS C",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/59489",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 9,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=59489&idf=1",
+     "sha256": "9c8bd28fc9a50f6466b759643a4a924b379b7b0a6c01cdacd381b5839b98e3a1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1777",
+   "short": "Ley 1.777",
+   "title": "Ley 1.777: LEY ORGÁNICA DE COMUNAS - DESCENTRALIZACIÓN - DESCONCENTRACIÓN - FUNCIONES - PARTICIPACIÓN CIUDADANA - ASUNTOS PÚBLICOS - COMPETENCIAS - ÁREA DE PARTICIPACIÓN VECINAL - ÁREA DE PARTICIPACIÓN COMUNAL - LIMITACIÓN - CLÁUSULA TRANSITORIA - GOBIERNO DE LA CIUDAD DE BUENOS AIRES - LEY DE COMUN",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/77544",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 53,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=77544&idf=1",
+     "sha256": "72c90a192bdd7e059367327ba6d009b21016bc757320791c1e97824ab378b5c6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1845",
+   "short": "Ley 1.845",
+   "title": "Ley 1.845: LEY DE PROTECCIÓN DE DATOS PERSONALES - GARANTIZA DENTRO DEL ÁMBITO DE LA CIUDAD DE BUENOS AIRES LA PROTECCIÓN DE DATOS PERSONALES REFERIDOS A PERSONAS FÍSICAS O DE EXISTENCIA IDEAL, ASENTADOS O DESTINADOS A SER ASENTADOS EN ARCHIVOS, REGISTROS, BASES O BANCOS DE DATOS DEL SECTOR PÚBLICO ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/81179",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 39,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=81179&idf=1",
+     "sha256": "da52b831dae631ad0a22f62d468cef9dc5bedc9ce0e12273fcec659fcdef0e56"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2145",
+   "short": "Ley 2.145",
+   "title": "Ley 2.145: LEY VETADA PARCIALMENTE - VETO PARCIAL ACEPTADO - LEY DE AMPARO DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - ACCIÓN DE AMPARO - PROCEDENCIA - DAÑOS Y PERJUICIOS - RECHAZO IN LIMINE - PLAZO DE INTERPOSICIÓN DE LA ACCIÓN - COMPETENCIA - CONTENIDO DE LA DEMANDA - MEDIOS PROBATORIOS - PRUEBA DOCUM",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/92847",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 31,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=92847&idf=1",
+     "sha256": "5867774c92ab772db81e2f4490897f1fed4755a98c2939fcccc85e08e7a59269"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2957",
+   "short": "Ley 2.957",
+   "title": "Ley 2.957: LEY PLAN MARCO DE POLÍTICAS DE DERECHOS Y DIVERSIDAD SEXUAL - DERECHOS HUMANOS - GAYS - LESBIANAS - TRAVESTIS- TRANSEXUALES - BISEXUALES - INTEGRACIÓN A LA SOCIEDAD CIVIL - NO DISCRIMINACIÓN POR ORIENTACIÓN SEXUAL E IDENTIDAD DE GÉNERO - CREACIÓN DEL CONSEJO CONSULTIVO ASESOR HONORARIO - ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/124117",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 10,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=124117&idf=1",
+     "sha256": "ef2858e9156d2e5da6271752206363638a6bb553ea6e5ef0204536acf2e508f2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4376",
+   "short": "Ley 4.376",
+   "title": "Ley 4.376: ESTABLECE LINEAMIENTOS - POLÍTICAS PÚBLICAS PARA RECONOCIMIENTO Y EJERCICIO PLENO - DERECHOS DE PERSONAS LESBIANAS - GAY - TRANS -BISEXUALES E INTERSEXUALES - OBJETO - PRINCIPIOS - EFECTIVIDAD DE DERECHOS - CONDUCCIÓN OBJETIVOS - ACCIONES POSITIVAS - ACCESO - SALUD - EDUCACIÓN - TRABAJO D",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/213008",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 18,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=213008&idf=1",
+     "sha256": "269106b3c6f3959d61f84f75348ef5880260560d944ecfa3acda92b3ba79b371"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5261",
+   "short": "Ley 5.261",
+   "title": "Ley 5.261: LEY CONTRA LA DISCRIMINACIÓN - OBJETO - ORDEN PÚBLICO - GARANTIZAR Y PROMOVER LA PLENA VIGENCIA DEL PRINCIPIO DE IGUALDAD Y NO DISCRIMINACIÓN - TIPOLOGÍA DIRECTA E INDIRECTA - EJERCICIO IGUALITARIO DE LOS DERECHOS - ACCIONES AFIRMATIVAS - PREVALENCIA NORMATIVA - REPARACIÓN - ETNIA - NACIO",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/281359",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 22,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=281359&idf=1",
+     "sha256": "e715f26823a6330712eb4897617042436a3173b614d9e9d4d50ae01e8b979c9b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5787",
+   "short": "Ley 5.787",
+   "title": "Ley 5.787: CREA MECANISMO LOCAL - PREVENCIÓN - TORTURA - OTROS TRATOS Y PENAS CRUELES -INHUMANOS Y-O DEGRADANTES - CONSTITUCIÓN NACIONAL - CONVENCIÓN - PROTECCIÓN DE LAS PERSONAS CONTRA LAS DESAPARICIONES FORZADAS - LEY 26 298 - PROTOCOLO FACULTATIVO - ÁMBITO DE LA DEFENSORÍA DEL PUEBLO - PRINCIPIOS",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/349304",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 35,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=349304&idf=1",
+     "sha256": "ef2ba27328ea5510859a63fff99d6603959d991d84a2d84788d6483b90af0316"
+    }
+   ]
+  },
+  {
+   "slug": "ley-462",
+   "short": "Ley 462",
+   "title": "Ley 462: CREA ENTE DE HIGIENE URBANA - ENTE DESCENTRALIZADO - OBJETO DEL ENTE - ADMINISTRACIÓN - EJECUCIÓN DE LOS SERVICIOS PÚBLICOS DE HIGIENE URBANA - DIRECCIÓN - DESIGNACIÓN DEL CARGO - TRASPASO DE PERSONAL AL ENTE - FUNCIONES - PLANIFICAR Y EJECUTAR SERVICIOS DE RECOLECCIÓN DE RESIDUOS - PROGRAM",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/8196",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 7,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=8196&idf=1",
+     "sha256": "03cba11fb27c7b4db8044084040a1049350fb07a46437ffbc70013b1b409ac25"
+    }
+   ]
+  },
+  {
+   "slug": "ley-471",
+   "short": "Ley 471",
+   "title": "Ley 471: LEY DE RELACIONES LABORALES - ADMINISTRACIÓN PÚBLICA DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - EMPLEO PÚBLICO - CONVENIOS COLECTIVOS DE TRABAJO - OIT - CARRERA ADMINISTRATIVA - CONCURSO PÚBLICO ABIERTO - NEGOCIACIÓN COLECTIVA - RÉGIMEN DISCIPLINARIO - DISPONIBILIDAD - ADSCRIPCIÓN - COMISIÓN D",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/8213",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 117,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=8213&idf=2",
+     "sha256": "31ec497af3950bac1b761281f43c4086c4b1ef566dbfb153849728de5232ee24"
+    }
+   ]
+  },
+  {
+   "slug": "ley-472",
+   "short": "Ley 472",
+   "title": "Ley 472: CREACIÓN OBRA SOCIAL DE LA CIUDAD DE BUENOS AIRES - OBSBA -CONTINUADORA DEL INSTITUTO MUNICIPAL DE OBRA SOCIAL - IMOS - ENTE PÚBLICO NO ESTATAL - EMPLEADOS PÚBLICOS - INSTITUTO DE ADMINISTRACIÓN MIXTA - DERECHO PÚBLICO Y PRIVADO - INDIVIDUALIDAD JURÍDICA Y AUTARQUÍA ADMINISTRATIVA - ECONÓMI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/8201",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 45,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=8201&idf=3",
+     "sha256": "68fc78d15c38619fc30a1f45f7b4e09c797ef55f968c7ba00465e3a09b3ed47d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1502",
+   "short": "Ley 1.502",
+   "title": "Ley 1.502: REGULA LA INCORPORACIÓN DE PERSONAS CON NECESIDADES ESPECIALES, AL SECTOR PÚBLICO DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - INCORPORACIÓN DE PERSONAL DE PLANTA PERMANENTE - DISCAPACITADOS - OBLIGACIÓN - OBLIGATORIEDAD - TRABAJO - EMPLEO - PODER LEGISLATIVO - PODER EJECUTIVO - PODER JUDICIAL",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/63961",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 16,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=63961&idf=1",
+     "sha256": "5fb2146052035af4d39e3108cf4741ff7c600c390b17de3d95f01876583c63a9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4736",
+   "short": "Ley 4.736",
+   "title": "Ley 4.736: EFICACIA JURIDICA - FIRMA ELECTRONICA - FIRMA DIGITAL - EXPEDIENTES ELECTRÓNICOS - DOCUMENTOS ELECTRÓNICOS- COMUNICACIONES ELECTRÓNICAS - NOTIFICACIONES ELECTRÓNICAS Y DOMICILIOS ELECTRÓNICOS CONSTITUIDOS- PROCEDIMIENTOS ADMINISTRATIVOS Y PROCESOS JUDICIALES - SECTOR PÚBLICO IDÉNTICA EFIC",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/235315",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 3,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=235315&idf=1",
+     "sha256": "50b1e4ff5df8d37d0cb75b7e3e361164b01cf1b2de55302880dd8b6da5d3a2bf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2340",
+   "short": "Ley 2.340",
+   "title": "Ley 2.340: LEY DEL COLEGIO ÚNICO DE CORREDORES INMOBILIARIOS - CORRETAJE INMOBILIARIO - REQUISITOS PARA EL EJERCICIO - INSCRIPCIÓN - MATRÍCULA - ENTE RESPONSABLE - SEGURO DE CAUCIÓN - GARANTÍA - GARANTÍA REAL - INSCRIPCIÓN DE LA MATRÍCULA - COLEGIO PROFESIONAL - INCOMPATIBILIDADES - SOCIEDADES - DEB",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/101209",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 54,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=101209&idf=1",
+     "sha256": "3184d3a9c264bbdeb7c3b5e3be02613db48bd7f2efc216b1545f165d28a864c2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4",
+   "short": "Ley 4",
+   "title": "Ley 4: LA CIUDAD AUTÓNOMA DE BUENOS AIRES ADHIERE AL RÉGIMEN DE COPARTICIPACIÓN FEDERAL DE IMPUESTOS ESTABLECIDO EN LA LEY 23548 Y SUS MODIFICATORIAS - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACION DEL DIGESTO JURIDICO)",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/10",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 2,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=10&idf=1",
+     "sha256": "bd713868c2082eca2277b0756d7131867d3caf7052971e20ea6fdac921cd3345"
+    }
+   ]
+  },
+  {
+   "slug": "ley-238",
+   "short": "Ley 238",
+   "title": "Ley 238: CALIFICACIÓN DE UTILIDAD PÚBLICA DE UN BIEN O UN CONJUNTO DE BIENES - RÉGIMEN DE EXPROPIACIONES EN EL ÁMBITO TERRITORIAL DE LA CIUDAD DE BUENOS AIRES - CALIFICACIÓN DE UTILIDAD PÚBLICA - BIENES EXPROPIABLES - PARTES DE LA ACCIÓN EXPROPIATORIA - MONTO DE LA INDEMNIZACIÓN - PROCESO EXPROPIATO",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/23101",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 40,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=23101&idf=1",
+     "sha256": "5e5b67f742a7ff03d799bb2c436e2ac2bfca886b2de78149902cdb16af50d5d5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1211",
+   "short": "Ley 1.211",
+   "title": "Ley 1.211: AUTORIZACIÓN DE INSTALACIÓN DE UNA FERIA DE MICROEMPRENDEDORES EN EL PERÍMETRO COMPRENDIDO POR LA AVDA. TRISTÁN ACHÁVAL RODRÍGUEZ - AVDA. CALABRIA Y BOULEVARD ROSARIO VERA PEÑALOZA - COSTANERA SUR - SECRETARÍA DE DESARROLLO ECONÓMICO - CUERPO DE DELEGADOS - SUBSECRETARÍA DE PRODUCCIÓN Y E",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/51442",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 19,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=51442&idf=1",
+     "sha256": "e368d5d694c1e6d71250a9170a3e85ca67b382f88e803077dcbaba791c38eec0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1779",
+   "short": "Ley 1.779",
+   "title": "Ley 1.779: CARTA ORGÁNICA DEL BANCO CIUDAD DE BUENOS AIRES - PERSONALIDAD - DOMICILIO Y OBJETO - ENTE AUTÁRQUICO - AUTONOMÍA - AGENTE FINANCIERO - POLÍTICA CREDITICIA - DOMICILIO LEGAL - OPERACIONES Y ACTIVIDADES - FUNCIÓN BANCO CIUDAD - CRÉDITO HIPOTECARIO - FONDOS - RECAUDADOR - IMPUESTOS - TASAS ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/77518",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 46,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=77518&idf=1",
+     "sha256": "3befa8d44bda3bb65d97260dc971c0822601000e4c7ab1e775704c4792cece02"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2059",
+   "short": "Ley 2.059",
+   "title": "Ley 2.059: RÉGIMEN DE BIENES MUEBLES INANIMADOS, PERDIDOS O ABANDONADOS - VEHÍCULOS - SIN SITUACIÓN PERMANENTE - PATRIMONIO DEL GOBIERNO - CONFIGURACIÓN - DESTINO DE LOS BIENES - INTIMACIÓN - CALIFICACIÓN DE ABANDONO - PLAZO 6 MESES - SUBASTA - AUTORIDAD DE APLICACIÓN - BIENES EN DESCOMPOSICIÓN - BI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/90107",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 8,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=90107&idf=2",
+     "sha256": "d9b8814e4c1512190bd808491ca9af4ab58ad72d3ae3f85d45934914574e073e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2603",
+   "short": "Ley 2.603",
+   "title": "Ley 2.603: CREA LA ADMINISTRACIÓN GUBERNAMENTAL DE INGRESOS PÚBLICOS DE LA CIUDAD DE BUENOS AIRES - CREACIÓN DE ORGANISMOS - ESTRUCTURA ORGÁNICA - ORGANIZATIVA - MINISTERIO DE HACIENDA - AGIP - ENTE AUTÁRQUICO - SISTEMA ESTADÍSTICO Y TRIBUTARIO - SUPRIME - DIRECCIÓN GENERAL DE RENTAS - DG DE ESTADÍS",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/112609",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 26,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=112609&idf=2",
+     "sha256": "9bdfa0c64eaedd83b70018efa8846ae5f0907c440f914c575fb8f0174722fb1d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3720",
+   "short": "Ley 3.720",
+   "title": "Ley 3.720: SISTEMA DE GARANTÍA BANCARIA - BANCO CIUDAD - CIUDAD AUTÓNOMA DE BUENOS AIRES - CREACIÓN - CONTRATOS DE LOCACIÓN DE VIVIENDAS - PAGO - PRÉSTAMO HIPOTECARIO - AUTORIDAD DE APLICACIÓN - CONDICIONES - PLAZO DE CONTRATO - SISTEMA DE GARANTÍA BANCARIA - CONTRATO - CONDICIONES - RENOVACIÓN O PR",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/165117",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 27,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=165117&idf=1",
+     "sha256": "09b18793088926ad8449f5d78587700656fbbb146f55ee1fe013d164001ea82a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3876",
+   "short": "Ley 3.876",
+   "title": "Ley 3.876: RÉGIMEN DE PROMOCIÓN - DESARROLLO DE LA ACTIVIDAD AUDIOVISUAL - PRODUCCIONES CINEMATOGRÁFICAS - CORTO - MEDIO - LARGOMETRAJE - DOCUMENTALES - PUBLICITARIAS - TELEVISIVAS - ANIMACIÓN - VIDEOS JUEGOS - IMAGEN Y SONIDO -CREA DISTRITO AUDIOVISUAL - REGISTRO DE EMPRESAS AUDIOVISUALES - EXENCIO",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/179855",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 26,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=179855&idf=1",
+     "sha256": "b52514c8c2dbcc18787e9f954377c1f453c1a966cb75892041e8330464b65cf6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4064",
+   "short": "Ley 4.064",
+   "title": "Ley 4.064: CREACIÓN RÉGIMEN DE PROMOCIÓN PARA LAS NUEVAS EMPRESAS - FOMENTO DE ESTABLECIMIENTO - PEQUEÑA Y MEDIANA EMPRESA - PYMES - INDUSTRIALES - COMERCIALES - CONSOLIDACIÓN Y REGULARIZACIÓN AUMENTO ACTIVIDADES PRODUCTIVAS - CREACIÓN DE NUEVOS PUESTOS DE TRABAJO SUSTENTABLES - REQUISITOS - EXCEPCI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/187574",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 10,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=187574&idf=1",
+     "sha256": "18209568c64ccaac0430d970e92d70747cfd9bcf65755a7041d31ad7c1d8db41"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4350",
+   "short": "Ley 4.350",
+   "title": "Ley 4.350: CREACIÓN DEL FONDO PARA LA PROMOCIÓN Y DESARROLLO DE LA ACTIVIDAD SINDICAL DE JUEGOS DE AZAR - TITULARIDAD - SINDICATO DE TRABAJADORES DE JUEGOS DE AZAR ENTRETENIMIENTO ESPARCIMIENTO RECREACIÓN Y AFINES DE LA REPÚBLICA ARGENTINA - ALEARA - DESARROLLO DE PROGRAMAS DE SALUD PROMOCIÓN SOCIAL",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/212199",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 6,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=212199&idf=1",
+     "sha256": "738301327de9467a4f5ee211c9dcbc0d5f4d45533f486cda1f139446a7f8ebb3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4761",
+   "short": "Ley 4.761",
+   "title": "Ley 4.761: LEY DE PROMOCIÓN - ACTIVIDADES DE DISEÑO EN LA CIUDAD - CREA DISTRITO DE DISEÑO - CALLE AUSTRALIA- AV PINEDO - BRANDSEN - AZARA- RÍO CUARTO- AV REGIMIENTO DE PATRICIOS- RIBERA DEL RIACHUELO- AV VÉLEZ SÁRSFIELD - BENEFICIARIOS - PROMOTORES DE INFRAESTRUCTURA - DE ACTIVIDADES INTENSIVAS - P",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/236799",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 33,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=236799&idf=2",
+     "sha256": "3348b8d5465e56ccf62d918a9a3700747ad3e35bb92821abff71f20a6b23da31"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5235",
+   "short": "Ley 5.235",
+   "title": "Ley 5.235: CREACIÓN DEL DISTRITO DEL DEPORTE - POLÍGONO DE AV GRAL PAZ - 27 DE FEBRERO - ESTEBAN BONORINO - FERNÁNDEZ DE LA CRUZ - PERITO MORENO - AUTOPISTA DELLEPIANE - FOMENTO DE LA ACTIVIDAD DEPORTIVA - BENEFICIARIOS - DESIGNACIÓN DE AUTORIDAD DE APLICACIÓN - MINISTERIO DE DESARROLLO ECONÓMICO - ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/277497",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 32,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=277497&idf=2",
+     "sha256": "089589b36e7b8c0f2246b3bfae4ad56c2d1150b8d766f2932658672a2a718b9f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5916",
+   "short": "Ley 5.916",
+   "title": "Ley 5.916: ADHIERE A LEY NACIONAL DE CONTRATOS DE PARTICIPACIÓN PÚBLICO - PRIVADA 27328 -INAPLICABILIDAD A CONTRATOS - LEYES NACIONALES 13064 Y 17520 - LEY 2095 - CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN - LEY 23928 - DEROGA LEY 4791 - MODIFICA LEY 70 - DEUDA PÚBLICA - EXCLUSIÓN AVALES FIANZAS O GARANT",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/394003",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 34,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=394003&idf=2",
+     "sha256": "9c497ec25bacf1394fdea3a38ed3bf79f4455cbd1265f6ca2bb866ed4ea2e89e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-223",
+   "short": "Ley 223",
+   "title": "Ley 223: LEY DEL SISTEMA ESCOLAR DE CONVIVENCIA - CREACIÓN DEL SISTEMA ESCOLAR DE CONVIVENCIA - PRINCIPIOS - OBJETIVOS -MODIFICACIÓN DECRETO 150073-43 - ESCUELAS SECUNDARIAS - GESTIÓN ESTATAL - PRIVADA - EVALUACIÓN DE CONDUCTAS -VALORES - RESPETO - DIÁLOGO - CONSENSOS - EDUCAR - NORMAS - SANCIONES -",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/4967",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 21,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=4967&idf=1",
+     "sha256": "10baae2980fc3a8c48ef39c97a3ab60a51773dfa7241e3ffffb150a3c779ecf5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2110",
+   "short": "Ley 2.110",
+   "title": "Ley 2.110: LEY DE EDUCACIÓN SEXUAL INTEGRAL - SISTEMA EDUCATIVO PÚBLICO DE GESTIÓN ESTATAL Y PRIVADA - CARRERA DE FORMACIÓN DOCENTE - RESPONSABILIDAD EJERCICIO DE LA SEXUALIDAD - PATERNIDAD-MATERNIDAD - RESPONSABLES Y PREVENCIÓN DE ENFERMENDADES DE TRANSMICIÓN SEXUAL - DEFINICIÓN PRINCIPIOS Y OBJETI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/92042",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 9,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=92042&idf=1",
+     "sha256": "7dd9bfb1bb7f2c4ce4f7abb6f19f7f528db9602bfa0f29adc93b65aaa880773a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2681",
+   "short": "Ley 2.681",
+   "title": "Ley 2.681: INSTITUTOS EDUCATIVOS PRIVADOS - NO PODRÁN NEGAR SIN CAUSA MATRICULACIÓN O REMATRICULACIÓN A UN/A ASPIRANTE AÑO O CICLO LECTIVO - CONSTITUCIÓN NACIONAL Y DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - FUNDAMENTACIÓN DE LA NEGATIVA - PLAZO MÁXIMO DE VEINTE DÍAS HÁBILES - RECLAMOS Y DENUNCIAS- NOT",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/117685",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 19,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=117685&idf=1",
+     "sha256": "035f88c0fc2e8093246297acbcd24fa840e134d5a556d112f4db334c912330c0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2917",
+   "short": "Ley 2.917",
+   "title": "Ley 2.917: CREA - RÉGIMEN DE BECAS - ALUMNOS - ALUMNAS - NIVEL MEDIO - SECUNDARIO DE ESCUELAS DE GESTIÓN ESTATAL - PÚBLICAS - AUTORIDAD DE APLICACIÓN - MINISTERIO DE EDUCACIÓN - BENEFICIOS - REQUISITOS - MONTOS - INSCRIPCIONES - PAGOS - MONITOREOS - CONTROLES - EVALUACIÓN- CAUSALEX DE EXTINCIÓN - AU",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/125647",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 22,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=125647&idf=1",
+     "sha256": "c8dabf66680311b003614e48c9f52d1d2b6575ae2d69e0b66e42edb26fce35ab"
+    }
+   ]
+  },
+  {
+   "slug": "ley-340",
+   "short": "Ley 340",
+   "title": "Ley 340: CREA RÉGIMEN DE FOMENTO - ACTIVIDAD DANZA NO OFICIAL - REGISTRO - INGRESOS NETOS - INGRESOS BRUTOS - DERECHOS AUTORALES - GRAVAMENES - GRUPOS CONTRATADOS - INFRAESTRUCTURA BASICA - GASTOS ADMINISTRATIVOS - IMPUESTO A LOS INGRESOS BRUTOS - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACIÓN DE",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/6391",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 18,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=6391&idf=1",
+     "sha256": "b329f1030df469b58ebc305b6dcc550d281f94403c926d6afae18b3b1d861b6a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-578",
+   "short": "Ley 578",
+   "title": "Ley 578: INSTITUYE DIVERSAS DISTINCIONES Y DECLARACIONES DE INTERÉS EN EL ÁMBITO DE LA CIUDAD DE BUENOS AIRES - RECONOCIMIENTOS - HOMENAJES - VISITANTE ILUSTRE - HUÉSPED DE HONOR - CIUDADANO - CIUDADANA ILUSTRE - MEDALLA AL MÉRITO - DECLARACIÓN DE INTERÉS - REQUISITOS - CONDICIONES PARA SU OTORGAMIE",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/11676",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 11,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=11676&idf=1",
+     "sha256": "b8a96f7eb7c1efcaed77a402fbff4a778e6891673d27a93c35ac4177ca58c568"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2263",
+   "short": "Ley 2.263",
+   "title": "Ley 2.263: LEY DE RECONOCIMIENTO DE LOS PUEBLOS ORIGINARIOS - RECONOCE LA PREEXISTENCIA Y SUS ORGANIZACIONES - PROMUEVE LA PRESERVACIÓN DE SU CULTURA Y RESPETA SUS VALORES CULTURALES ESPIRITUALES MODALIDADES DE VIDA Y COSMOVISIÓN - CREA PADRÓN Y REGISTRO DE RESIDENTES DE DESCENDIENTES DE LOS PUEBLO ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/95248",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 10,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=95248&idf=1",
+     "sha256": "a4e3fa0e377f58b1c0970efdc02ec2db08a60d09c55a69186805e69762f9aea4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2855",
+   "short": "Ley 2.855",
+   "title": "Ley 2.855: CREACIÓN - SE CREA EL ENTE AUTÁRQUICO TEATRO COLÓN - MINISTERIO DE CULTURA - REPRESENTACIÓN - ARTE LÍRICO - COREOGRÁFICO - MUSICAL - SINFÓNICO Y DE CÁMARA - EXPERIMENTAL - AUTORIDADES - DIRECTORIO - MIEMBROS - CONSEJO ASESOR HONORARIO - NIVEL DE RETRIBUCIÓN - ESCALA REMUNERATIVA - SUELDOS",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/121048",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 31,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=121048&idf=1",
+     "sha256": "3a2d32702bac7ec4523138bf6fb59d6017f5d9e80e60d48ed9b3a3bdefbbb2d3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3014",
+   "short": "Ley 3.014",
+   "title": "Ley 3.014: CREA EL RÉGIMEN DE RECONOCIMIENTO A LA ACTIVIDAD LITERARIA DE LA CIUDAD DE BUENOS AIRES - ESCRITORES - ESCRITORAS - LITERATOS - OTORGAMIENTO DE SUBSIDIOS - SUBSIDIO - MENSUAL - VITALICIO - AUTORIDAD DE APLICACIÓN - MINISTERIO DE CULTURA - CREACIÓN DEL COMITÉ DE EVALUACIÓN - PENSIÓN - JUBI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/127061",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 9,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=127061&idf=1",
+     "sha256": "bd329c93ec3e2bc0e3650f4c3fcede80d3cff0d2b8c7946063580ae5f733688b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3022",
+   "short": "Ley 3.022",
+   "title": "Ley 3.022: APRUEBA EL RÉGIMEN DE CONCERTACIÓN PARA LA ACTIVIDAD MUSICAL NO DEPENDIENTE DEL ÁMBITO OFICIAL DE LA CIUDAD - CREACIÓN DE REGISTRO - AUTORIDAD DE APLICACIÓN - MINISTERIO DE CULTURA - MÚSICOS SOLISTAS - GRUPOS MUSICALES - SUBSIDIOS - CRÉDITOS - EXENCIONES IMPOSITIVAS - IMPUESTOS - VALOR DE",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/127747",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 19,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=127747&idf=2",
+     "sha256": "c3155f1153d2cb1226604037041b9e2b49457462922675ea42a509e07b16ff4b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4121",
+   "short": "Ley 4.121",
+   "title": "Ley 4.121: REGULACIÓN - FUNCIONAMIENTO DE LAS ACTIVIDADES FERIALES - EMPLAZAMIENTO DE FERIAS - MANUALIDADES - MANUALISTAS - COMPRA-VENTA - REVISTAS - LIBROS - OBJETOS DE COLECCIÓN - CASSETTES - PELÍCULAS - DISCOS - FILATELIA - NUMISMÁTICA - ANTIGÜEDADES - PARTITURAS MUSICALES - MATERIAL GRÁFICO DE C",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/187893",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 14,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=187893&idf=1",
+     "sha256": "1f3ccd8ae9136d8cac641aa7b0f2f32f59ab9b8bf9e06c112f8026e059c3e28c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5240",
+   "short": "Ley 5.240",
+   "title": "Ley 5.240: DENOMINACIÓN - CENTRO CULTURAL - ESPACIO NO CONVENCIONAL - EXPERIMENTAL Y-O MULTIFUNCIONAL - MANIFESTACIONES ARTÍSTICAS - ESPECTÁCULOS - FUNCIONES - FESTIVALES - BAILES - EXPOSICIONES - INSTALACIONES Y-O MUESTRAS - PARTICIPACIÓN DE INTÉRPRETES Y-O ASISTENTES - INSCRIPCIÓN - TRÁMITE - TIMB",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/268889",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 18,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=268889&idf=1",
+     "sha256": "f583b89f63688765601d7689936f2ae48b1a13b80a3d1f926d0dde54abb7ac0f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1799",
+   "short": "Ley 1.799",
+   "title": "Ley 1.799: LEY DE CONTROL DEL TABACO - ANTITABACO - PROHIBE FUMAR - PROHIBICIÓN - CIGARILLOS - LUGARES - LOCALES - CERRADOS CON ACCESO PÚBLICO DEL ÁMBITO PÚBLICO - PRIVADO - FUMADORES - SALAS DE TEATRO - RESTAURANTE - BARES - SHOPPING - CINES - CABINAS TELÉFONICAS - TERMINALES DE MICRO -SUBTES - CAJ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/78696",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 30,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=78696&idf=2",
+     "sha256": "a116ca90c138d667aa4d9b36eb33d1aa2c89ab0ff30dfe85260497ee76016ad4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-538",
+   "short": "Ley 538",
+   "title": "Ley 538: LEY DE JUEGOS DE APUESTA - CASINOS - BINGOS - ÁMBITO DE APLICACIÓN - COMPETENCIA - AUTORIDAD DE APLICACIÓN - CONCESIÓN - GARANTÍA DE LA ACTIVIDAD - INSTRUMENTOS - PLAZO DE CADUCIDAD - SITUACIONES ESPECIALES - CADENA DE COMERCIALIZACIÓN - REVISIÓN DE AUTORIZACIONES Y CONVENIOS -- NORMA CONSO",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/9885",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 31,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=9885&idf=1",
+     "sha256": "a5f95f28c85d9c7619f9c9896e973a77d71977bb599dc3ebfb72709467e56de8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-600",
+   "short": "Ley 600",
+   "title": "Ley 600: LEY DE TURISMO DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - ORGANIZACIÓN DEL SISTEMA TURÍSTICO - CONSEJO CONSULTIVO - PRESTADORES DE SERVICIOS TURÍSTICOS - REGISTRO DE PRESTADORES - RECURSOS - ASISTENCIA AL TURISTA -- NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACIÓN DEL DIGESTO JURÍDICO)",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/12712",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 25,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=12712&idf=2",
+     "sha256": "945619579600f7fd199473b700db042db7f4ee5cdc3cb2e8649e7ca6f7204ab7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-757",
+   "short": "Ley 757",
+   "title": "Ley 757: LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA LA DEFENSA DE LOS DERECHOS DEL CONSUMIDOR Y DEL USUARIO - ESTABLECE EL PROCEDIMIENTO ADMINISTRATIVO PARA LA EFECTIVA IMPLEMENTACIÓN EN EL ÁMBITO DE LA CIUDAD, DE LOS DERECHOS DE LOS CONSUMIDORES Y USUARIOS, RECONOCIDOS EN LA CONSTITUCIÓN NACIONAL Y E",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/19655",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 31,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=19655&idf=1",
+     "sha256": "1775d11d800e7b524f46f44055bc57b6725d7f55ed7f867316e78041b9b2759d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2624",
+   "short": "Ley 2.624",
+   "title": "Ley 2.624: CREA LA ENTIDAD AUTÁRQUICA AGENCIA GUBERNAMENTAL DE CONTROL EN EL ÁMBITO DEL MINISTERIO DE JUSTICIA Y SEGURIDAD - CREACIÓN - ESTRUCTURA ORGÁNICA - ORGANIZATIVA - PODER DE POLICÍA - APLICACIÓN DE MULTAS - SANCIONES - FACULTADES - SALUBRIDAD - OBRAS CIVILES - TRANSFERENCIA - RESPONSABILIDAD",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/112533",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 21,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=112533&idf=2",
+     "sha256": "1e6d49408803517c72eb2d3cbb73cfd53b2e5e0849637fd3c05e2664eaf11525"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2627",
+   "short": "Ley 2.627",
+   "title": "Ley 2.627: CREA EL ENTE DE TURISMO - DESIGNA FUNCIONES - RESPONSABILIDADES PRIMARIAS - CREA PROGRAMA DE PARTICIPACIÓN PÚBLICA Y PRIVADA - CONSEJO ASESOR DE TURISMO - ESTRUCTURA ORGANIZATIVA DEL GOBIERNO DE LA CIUDAD - ADMINISTRACIÓN - RECURSOS - PRESUPUESTO - DISPOSICIONES TRANSITORIAS - ANEXOS -- N",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/112971",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 18,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=112971&idf=5",
+     "sha256": "b6545dd7cb2f03a34100e4662a0480f240a1c68020c820fec3d61e37215ba6d9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2875",
+   "short": "Ley 2.875",
+   "title": "Ley 2.875: CREA ORGANISMO DEL REGISTRO PÚBLICO DE COMERCIO Y CONTRALOR DE PERSONAS JURÍDICAS - CREACIÓN DE ORGANISMO AUTÁRQUICO - MINISTERIO DE JUSTICIA Y SEGURIDAD - COMPETENCIAS - FUNCIONES - SOCIEDADES COMERCIALES - ASOCIACIONES CIVILES - FUNDACIONES - SUCURSALES EN EL EXTRANJERO - ESTATUTOS - IN",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/121818",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 30,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=121818&idf=1",
+     "sha256": "8b65e0a1e883f2eccfea216b39d3e58a0412db320b5c26acf11a4dc039cd9471"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2963",
+   "short": "Ley 2.963",
+   "title": "Ley 2.963: CREACIÓN - SISTEMA ARBITRAL DE CONSUMO DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - DIRECCIÓN DE DEFENSA Y PROTECCIÓN DEL CONSUMIDOR - TRIBUNALES ARBITRALES DE CONSUMO - REGISTRO DE ÁRBITROS INSTITUCIONALES - OFERTA PÚBLICA DE ADHESIÓN - PROCEDIMIENTO - RECLAMOS DE CONSUMIDORES Y USUARIOS - AU",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/123832",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 25,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=123832&idf=1",
+     "sha256": "07c79f5997b75f5b2ef5bea495051ab2f37653728b448395ad4295ef94fb1568"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4827",
+   "short": "Ley 4.827",
+   "title": "Ley 4.827: LEY DE EXHIBICIÓN Y PUBLICIDAD DE PRECIOS - NORMAS GENERALES - EXHIBICION DE PRECIOS - SUPERMERCADOS Y AUTOSERVICIOS - CARNICERIAS VERDULERIAS PESCADERIAS PANADERIAS Y CASAS DE COMIDA PARA LLEVAR - EXHIBICION DE PRECIOS EN FARMACIAS - GARAJES Y PLAYAS DE ESTACIONAMIENTO - AUTOPISTAS - COM",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/239591",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 38,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=239591&idf=2",
+     "sha256": "b50981f8484300a236093ed4f67453dafc22568a610683109b0cf73a29598b5f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5008",
+   "short": "Ley 5.008",
+   "title": "Ley 5.008: ESTABLECE LA OBLIGACIÓN DE NO EFECTUAR DIFERENCIAS DE PRECIO ENTRE OPERACIONES AL CONTADO Y CON TARJETA DE CRÉDITO O DÉBITO - PAGO EN EFECTIVO Y CON TARJETA - PROVEEDORES BIENES Y SERVICIOS - DERECHOS DE LOS CONSUMIDORES Y USUARIOS - OBLIGATORIEDAD - DESCUENTOS EN COMERCIOS- EXHIBICIÓN DE",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/253623",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 5,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=253623&idf=1",
+     "sha256": "840e820b195e4ba43eea5513c6765d50fb6d3bf88698a5084374476f827217d6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5191",
+   "short": "Ley 5.191",
+   "title": "Ley 5.191: LEY - EDUCACIÓN PARA EL CONSUMO - OBJETO - ACTIVIDADES A DESARROLLAR - FINALIDAD Y CONTENIDOS - DIFUSIÓN - ARTICULACIÓN CON EL MINISTERIO DE EDUCACIÓN - ASIGNACIÓN PRESUPUESTARIA - FORMACIÓN INTEGRAL DE CONSUMIDORES Y USUARIOS DE BIENES Y SERVICIOS - ÁMBITO DE LA CIUDAD DE BUENOS AIRES - ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/268883",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 7,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=268883&idf=1",
+     "sha256": "1e55c63781a39b13ddbcb24bdcb3e76add1cf416250e8edfe1ae78291ec62238"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5670",
+   "short": "Ley 5.670",
+   "title": "Ley 5.670: REGULACIÓN - ACTIVIDAD ESTABLECIMIENTOS PARA PERSONAS MAYORES - ÁMBITO DE APLICACIÓN - OBJETIVOS - REQUISITOS - DERECHOS DE ALOJADOS Y CONCURRENTES - REGISTRO ÚNICO Y OBLIGATORIO - CREACIÓN - RESPONSABLES PRIMARIOS - HABILITACIÓN - INSCRIPCIÓN - INFORMACIÓN - RENOVACIÓN ANUAL - ACTUALIZAC",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/340871",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 43,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=340871&idf=2",
+     "sha256": "5e4dd47c0a0d9c8b4cb8399e8825b3af94fadb65d604e8e3167adc95ebee618e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5707",
+   "short": "Ley 5.707",
+   "title": "Ley 5.707: MARCO REGULATORIO PARA LA HABILITACIÓN GENERAL DE VEHÍCULOS GASTRONÓMICO - DENOMINACIÓN - DISPOSICIONES GENERALES - COMUNES - REQUISITOS - INCOMPATIBILIDADES - DERECHOS Y OBLIGACIONES DEL HABILITADO O PERMISIONARIO - DESGINA AUTORIDAD A CARGO DE LA HABILITACIÓN GENERAL - EQUIPAMIENTO - RE",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/345784",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 24,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=345784&idf=2",
+     "sha256": "bb8fab990bfa76d2d0888061f30ed6b4d873a23bc2ebbe6915318f88e4bd5c8c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5785",
+   "short": "Ley 5.785",
+   "title": "Ley 5.785: CREA LA LOTERÍA DE LA CIUDAD DE BUENOS AIRES SOCIEDAD DEL ESTADO - LOTBA SE - OBJETO - AUTORIZACIÓN - ORGANIZACIÓN - EXPLOTACIÓN - RECAUDACIÓN - COMPETENCIAS - ADMINISTRACIÓN Y CONTROL DE JUEGOS DE AZAR - DESTREZA Y APUESTAS MUTUAS - ACTIVIDADES - AUTORIDAD DE APLICACIÓN - LEY NACIONAL 20",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/346179",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 7,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=346179&idf=1",
+     "sha256": "f906c26b5d343411d1d548d59e891ec85d81b9023b3b2baa8c331d6b2592e919"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5847",
+   "short": "Ley 5.847",
+   "title": "Ley 5.847: RÉGIMEN INTEGRAL PARA EVENTOS FUTBOLÍSTICOS - PRESERVACIÓN DE LA INTEGRIDAD FÍSICA DE LAS PERSONAS - PREVENCIÓN - SEGURIDAD - VIOLENCIA - PARTIDOS DE FÚTBOL - HIGIENE - INFRAESTRUCTURA - EQUIPAMIENTO - EDILICIA - VALOR DE LOS ESTADIOS DE FÚTBOL - ASOCIACIÓN DE FÚTBOL ARGENTINO - AFA - LA ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/371903",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 29,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=371903&idf=1",
+     "sha256": "7a34bbd8e98c5517ce8e3994cf5446f6560c5b350515106d220ca825a37060a4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-114",
+   "short": "Ley 114",
+   "title": "Ley 114: PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES. CREA EL CONSEJO DE LOS DERECHOS DE NIÑOS NIÑAS Y ADOLESCENTES LAS DEFENSORÍAS ZONALES Y EL REGISTRO DE ORGANIZACIONES COMUNITARIAS Y ORGANISMOS NO GUBERNAMENTALES. ESTABLECE OBLIGACIONES A CARGO DE LOS ORGANISMOS DE ATE",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/1298",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 83,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=1298&idf=1",
+     "sha256": "f727538b151f4a7ebb1b03caeefe74c73ad9c84ad0b45f4089e90fbf75a0e81c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-447",
+   "short": "Ley 447",
+   "title": "Ley 447: LEY MARCO DE LAS POLÍTICAS PARA LA PLENA PARTICIPACIÓN E INTEGRACIÓN DE LAS PERSONAS CON NECESIDADES ESPECIALES - RÉGIMEN BÁSICO E INTEGRAL - PREVENCIÓN - REHABILITACIÓN - EQUIPARACIÓN DE POSIBILIDADES Y OPORTUNIDADES - INTEGRACIÓN PLENA DE LAS PERSONAS CON NECESIDADES ESPECIALES - PERSONAS",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/8110",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 14,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=8110&idf=1",
+     "sha256": "4ea7f2610b523df4ee816145a5570d193b381aa0738e0dec289061c2c29d4c69"
+    }
+   ]
+  },
+  {
+   "slug": "ley-474",
+   "short": "Ley 474",
+   "title": "Ley 474: PLAN DE IGUALDAD REAL DE OPORTUNIDADES Y DE TRATO ENTRE MUJERES Y VARONES - IGUALDAD ENTRE LOS SEXOS - DERECHOS - DISCRIMINACIÓN EN RAZÓN DEL SEXO - IGUALDAD ANTE LA LEY - DEFINICIÓN - INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO - GARANTÍAS - MEDIDAS ANTIDISCRIMINATORIAS - ÁREAS - GRUPOS VULN",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/8264",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 19,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=8264&idf=2",
+     "sha256": "8648d0d1ef231517482bfc5a669f81dd679518d82cbcf4479c3eb5ebea901292"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1669",
+   "short": "Ley 1.669",
+   "title": "Ley 1.669: INCLUSIÓN SOCIAL DE LA NIÑEZ - PADRÓN DE BENEFICIARIOS -ASIGNACIÓN FAMILIAR - MUJERES EMBARAZADAS - NIÑOS Y NIÑAS HASTA LOS DOS -2- AÑOS DE EDAD - INGRESO MONETARIO SUBSIDIOS - CONDICIONES DE ACCESO - REQUISITOS - MÓDULO ESPECIAL DE SEGUIMIENTO - MONITOREO - TALLERES - CAPACITACIÓN - EMBA",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/71648",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 22,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=71648&idf=1",
+     "sha256": "418e136e86da5eb87bc9187594f7caff785b7cc3026604adbb01af73d4794258"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1688",
+   "short": "Ley 1.688",
+   "title": "Ley 1.688: FE DE ERRATAS - PREVENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE VIOLENCIA FAMILIAR Y DOMÉSTICA - CREACIÓN DEL REGISTRO - PLAZOS DE REGLAMENTACIÓN - MUJERES - VARONES - NIÑAS - NIÑOS - ADOLESCENTES - ADULTOS - PERSONAS CON NECESIDADES ESPECIALES - EDUCACIÓN - INFORMACIÓN - ATENCIÓN - CENTROS DE ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/72146",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 32,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=72146&idf=1",
+     "sha256": "42370081a66d5adfdb4af0ae28c1e1f1c61f3eec7df6ce595e6fb89a60216269"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2291",
+   "short": "Ley 2.291",
+   "title": "Ley 2.291: CREACIÓN - SISTEMA DE ATENCIÓN TELEFÓNICA DE EMERGENCIAS DE LA CIUDAD DE BUENOS AIRES - SERVICIOS - SERVICIOS PÚBLICOS- DENUNCIA DE EMERGENCIAS - ACCIDENTES - ATENCIÓN DE LLAMADAS DE EMERGENCIA - LLAMADA GRATUITA PARA EMERGENCIAS - NÚMERO DE TELÉFONO - CENTRALIZACIÓN DE LLAMADOS - 102 - 1",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/97735",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 12,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=97735&idf=1",
+     "sha256": "173605440d29a12406536d364f9cd4ee9540c7ee64e3352c9d6bdf923add513e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2579",
+   "short": "Ley 2.579",
+   "title": "Ley 2.579: LEY DE VOLUNTARIADO SOCIAL - DEFINICIONES - ALCANCES - ORGANIZACIONES SIN FINES DE LUCRO - VOLUNTARIOS CIVILES - REGISTRO ÚNICO DE ORGANIZACIONES - ACUERDO BÁSICO COMÚN - DESIGNACIÓN DE AUTORIDAD DE APLICACIÓN - MINISTERIO DE DESARROLLO SOCIAL - DERECHOS - OBLIGACIONES - REGISTRO ÚNICO DE",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/112965",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 15,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=112965&idf=1",
+     "sha256": "e72dc79cfe3b8675bf88b9406abe7e6ff3ae3186e55198980cd856899d72d1eb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2830",
+   "short": "Ley 2.830",
+   "title": "Ley 2.830: ORGANISMOS DEL PODER EJECUTIVO - IMPLEMENTACIÓN - SERVICIO DE INFORMACIÓN ACCESIBLE PARA LA INTEGRACIÓN DE PERSONAS CON NECESIDADES ESPECIALES - ORGANIZACIONES PRIVADAS QUE BRINDAN SERVICIOS PÚBLICOS - ACCESO A LA INFORMACIÓN - VICEJEFATURA DE GOBIERNO - ORIENTACIÓN - PRESTACIONES - SERVI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/120731",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 11,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=120731&idf=1",
+     "sha256": "390a539cc7e571feffba998be5b29a9c8367d4b72afd3178a9099773688c53d9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3266",
+   "short": "Ley 3.266",
+   "title": "Ley 3.266: MEDIDAS PARA LA PREVENCIÓN Y LA ERRADICACIÓN DE LA VIOLENCIA CONTRA Y ENTRE NIÑOS, NIÑAS Y ADOLESCENTES EJERCIDA A TRAVÉS DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LA COMUNICACIÓN - TIC - AUTORIDAD DE APLICACIÓN -CONSEJO DE LOS NIÑOS, NIÑAS Y ADOLESCENTES - INTERNET - TELÉFONOS CELULARES - H",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/139814",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 7,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=139814&idf=1",
+     "sha256": "c909fa8c55a57baf41c47f5497e4572c9998c814b8752543e51851a78137e8cf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3546",
+   "short": "Ley 3.546",
+   "title": "Ley 3.546: PERSONAS CON DISCAPACIDAD - ACCESO GRATUITO - ESPECTÁCULOS PÚBLICOS - ARTÍSTICO - CULTURAL - DEPORTIVO - RECREATIVO - TURÍSTICO - REALIZADOS POR EL GOBIERNO DE LA CIUDAD DE BUENOS AIRES - DISCAPACITADOS - RESERVA DEL 2% DE LOCALIDADES - BOLETERÍAS - LEYENDA - EL ACCESO A ESTE ESPECTÁCULO ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/157009",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 13,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=157009&idf=1",
+     "sha256": "9124e63eca22a3d8d54c885c6ec6b840f5c895a1ad7cc0b41269c0fa1b5aa323"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3721",
+   "short": "Ley 3.721",
+   "title": "Ley 3.721: CREA PROGRAMA DE INCLUSIÓN LABORAL PARA JÓVENES EN SITUACIÓN DE VULNERABILIDAD SOCIAL - OFERTA DE EMPLEO ORIENTACIÓN LABORAL Y EDUCATIVA - INSERCIÓN LABORAL DE JÓVENES EN SITUACIÓN DE VULNERABILIDAD SOCIAL ATENDIDOS EN LOS PROGRAMAS SOCIALES DE ADOLESCENTES Y JÓVENES DE LA CIUDAD - AUTORI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/165063",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 12,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=165063&idf=1",
+     "sha256": "ae7fcf6040027a27ef85f2f330f35fe0d49beb860c39b271721895fe550d1561"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3799",
+   "short": "Ley 3.799",
+   "title": "Ley 3.799: PROMOCIÓN Y DIFUSIÓN DE ACCIONES Y PROGRAMAS - PROTECCIÓN DE PERSONAS ADULTAS MAYORES VÍCTIMAS DE VIOLENCIA ABUSO MALTRATO Y DISCRIMINACIÓN - PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LOS ADULTOS MAYORES - DEFINICIONES - AUTORIDAD DE APLICACIÓN - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZA",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/173697",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 5,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=173697&idf=1",
+     "sha256": "030824fd350f34a33626a48c8145cdaa37e073eb787ebdd7845f858b67bb14d6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4343",
+   "short": "Ley 4.343",
+   "title": "Ley 4.343: LEY DIFUSIÓN - ASISTENCIA A MUJERES - VÍCTIMAS VIOLENCIA DE GÉNERO - OBJETO - DEFINICIONES - OBLIGACIONES - ATRIBUCIONES DE LOS LOCALES DE VENTA DE INDUMENTARIA FEMENINA - INFORMACIÓN MÍNIMA DE LA CALCOMANÍAS - CONTENIDO - DIRECCIÓN GENERAL DE LA MUJER - CUMPLIMIENTO SE COMPLETARÁ EN EL P",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/210133",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 7,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=210133&idf=1",
+     "sha256": "0c62410619490c8cf05bc575ac7d19706d26a7f9ab0bcdc0b1e4857003ecb935"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5228",
+   "short": "Ley 5.228",
+   "title": "Ley 5.228: CREACIÓN DE LA CENTRAL DE ATENCIÓN TELEFÓNICA 0800-666-8537 - OBJETO - FUNCIONES - INFORMACIÓN - ORIENTACIÓN -ASESORAMIENTO Y CONTENCIÓN - VIOLENCIA DE GÉNERO HACIA LAS MUJERES - MALTRATO - ABUSO INFANTO-JUVENIL - DERECHOS A LA SALUD - DELITOS SEXUALES - INTERVENCIÓN - DERIVACIÓN - AUTORI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/269596",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 7,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=269596&idf=1",
+     "sha256": "85c7553164be6c44c2166b57056f02d57f5d0e9e3a1f9183a4b2c43d13b54406"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5420",
+   "short": "Ley 5.420",
+   "title": "Ley 5.420: LEY DE PREVENCIÓN Y PROTECCIÓN INTEGRAL CONTRA ABUSO Y MALTRATO - ADULTOS MAYORES - TODA PERSONA MAYOR DE SESENTA 60 AÑOS - OBRAR NEGLIGENTE - EN CONTRA BIENESTAR GENERAL - TANTO GRUPO FAMILIAR - LEY 1265 - CUIDADORES - ALLEGADOS - CONVIVIENTES O NO - ABUSO O MALTRATO - FÍSICO - PSICOLÓGI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/301915",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 17,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=301915&idf=1",
+     "sha256": "f4d26291431d3a669ce9ec0c8551bbbca50f426978e652b4178382d21123f38f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5671",
+   "short": "Ley 5.671",
+   "title": "Ley 5.671: ASISTENTES GERONTOLÓGICOS - DENOMINACIÓN - DEFINICIÓN - MINISTERIO DE HÁBITAT Y DESARROLLO HUMANO - SECRETARÍA DE TERCERA EDAD - FUNCIONES - FORMACIÓN - CAPACITACIÓN - CREACIÓN - REGISTRO ÚNICO Y OBLIGATORIO DE ASISTENTES GERONTOLÓGICOS - OBLIGACIÓN - CURSO HABILITANTE - REQUISITOS - COND",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/338862",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 13,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=338862&idf=2",
+     "sha256": "f7d989edbdec83d894b3733b90b12f31deabb807df036b20b73b9a86eb6cb29e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5861",
+   "short": "Ley 5.861",
+   "title": "Ley 5.861: SE CREA RÉGIMEN - REPARACIÓN ECONÓMICA PARA NIÑAS NIÑOS ADOLESCENTES Y JÓVENES VÍCTIMAS COLATERALES DE FEMICIDIOS - PRESTACIÓN ECONÓMICA - REQUISITOS -BENEFICIARIOS - COMPATIBILIDAD - TITULARES - ASISTENCIA PSICOLÓGICA - ATENCIÓN MÉDICA - SANCIÓN - CONSEJO DE LOS DERECHOS DE NIÑAS NIÑOS Y",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/379365",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 15,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=379365&idf=1",
+     "sha256": "721320d688ee655a55516eb8873a780836c8140db7468a0a16447743a8d4f9ac"
+    }
+   ]
+  },
+  {
+   "slug": "ley-265",
+   "short": "Ley 265",
+   "title": "Ley 265: COMPETENCIAS DE LA AUTORIDAD ADMINISTRATIVA DEL TRABAJO DE LA CIUDAD DE BUENOS AIRES - POLICÍA DEL TRABAJO - FACULTADES DE INSPECCIÓN - CONDICIONES Y MEDIO AMBIENTE DEL TRABAJO - INFRACCIONES Y SANCIONES - PROCEDIMIENTO - CONFLICTOS DEL TRABAJO - INDIVIDUALES - NEGOCIACIÓN COLECTIVA - PODER",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/23211",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 63,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=23211&idf=1",
+     "sha256": "1ca250329facae3ddcab7d78c014e2d3366f54ae7cbee84085be6bedbceee326"
+    }
+   ]
+  },
+  {
+   "slug": "ley-123",
+   "short": "Ley 123",
+   "title": "Ley 123: DETERMINA PROCEDIMIENTO TÉCNICO - ADMINISTRATIVO DE EVALUACIÓN DE IMPACTO AMBIENTAL -EIA - CONFORME LOS TÉRMINOS DEL ARTÍCULO 30 DE LA CONSTITUCIÓN DE LA CIUDAD - MEDIO AMBIENTE - DESARROLLO SUSTENTABLE - SOSTENIBLE - EFLUENTES - RESIDUOS - RÍO DE LA PLATA - RIACHUELO - DEFORESTACIÓN - CONS",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/1293",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 53,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=1293&idf=2",
+     "sha256": "3c88889577082af2015d179319eeda53560319ee6ae7b148fc879cd109095157"
+    }
+   ]
+  },
+  {
+   "slug": "ley-154",
+   "short": "Ley 154",
+   "title": "Ley 154: REGULA LA GENERACIÓN MANIPULACIÓN ALMACENAMIENTO RECOLECCIÓN TRANSPORTE TRATAMIENTO Y DISPOSICIÓN FINAL DE LOS RESIDUOS PATOGÉNICOS PROVENIENTES DE LAS ACTIVIDADES QUE PROPENDAN A LA ATENCIÓN DE LA SALUD HUMANA Y ANIMAL - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACION DEL DIGESTO JURIDIC",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/3633",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 44,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=3633&idf=2",
+     "sha256": "e3a32aefdaada7ac8789ca4681812cdcb5f0c9a3444b90b3992f6b33acd61983"
+    }
+   ]
+  },
+  {
+   "slug": "ley-303",
+   "short": "Ley 303",
+   "title": "Ley 303: LEY DE INFORMACIÓN AMBIENTAL - INFORMACIÓN SOBRE EL ESTADO Y LA GESTIÓN DEL AMBIENTE Y DE LOS RECURSOS NATURALES - PLANES Y PROGRAMAS PÚBLICOS Y PRIVADOS - ACTUACIONES O MEDIDAS DE PROTECCIÓN - REGISTRO E INFORME ANUAL AMBIENTAL - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACION DEL DIGEST",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/5877",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 19,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=5877&idf=1",
+     "sha256": "ba072052d4aa7163f8f0336109543b8d226b646c4746a079cbd593ae510718ba"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1356",
+   "short": "Ley 1.356",
+   "title": "Ley 1.356: FE DE ERRATAS - BO 2006 - REGULA LA PRESERVACIÓN DEL RECURSO AIRE Y LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN ATMOSFÉRICA - EMISIÓN CONTAMINANTE - RESPONSABLES DE FUENTES DE CONTAMINACIÓN - SANCIONES - MULTAS - CLAUSURA DE LOCALES - INHABILITACIÓN DE LOCALES - MEDIO AMBIENTE - SALUD - E",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/59418",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 67,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=59418&idf=1",
+     "sha256": "b7e2c0c1187dfbdd61d9dba78083df6bb296f67fa6651bd9927062c9d624510c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1540",
+   "short": "Ley 1.540",
+   "title": "Ley 1.540: CONTROL DE LA CONTAMINACIÓN ACÚSTICA - PREVENCIÓN - CONTROL - CORRECCIÓN - CONTAMINACIÓN ACÚSTICA - RUIDOS - VIBRACIONES - FUENTES FIJAS - FUENTES MÓVILES - PLAN DE ACTUACIÓN - VALORACIÓN - NIVELES DE EMISIÓN - ÁREA DE SILENCIO - ÁREA LEVEMENTE RUIDOSA - ÁREA RUIDOSA - ÁREA ESPECIALMENTE ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/67210",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 49,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=67210&idf=1",
+     "sha256": "a1894fb2d2cc1577592b3d5368a4d2c3a3c7ffcca7f8e07692f7141f80b95191"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1854",
+   "short": "Ley 1.854",
+   "title": "Ley 1.854: GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS - BASURA CERO - PROTECCIÓN DEL AMBIENTE - DEFINICIÓN - REDUCCIÓN PROGRESIVA DE LA DISPOSICIÓN FINAL - GENERACIÓN DE RESIDUOS - SEPARACIÓN SELECTIVA - RECUPERACIÓN - RECICLADO - LEY 1687 - LEY DE EDUCACIÓN AMBIENTAL - RESIDUOS EXCLUIDOS - CRONOG",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/81508",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 60,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=81508&idf=1",
+     "sha256": "f6685be48f853e1cc4a6853e64e5ace2cc8641514d68081ef94ba066fc0f50bb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2214",
+   "short": "Ley 2.214",
+   "title": "Ley 2.214: LEY DE RESIDUOS PELIGROSOS DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - REGULA LA GENERACIÓN MANIPULACIÓN ALMACENAMIENTO TRANSPORTE TRATAMIENTO Y DISPOSICIÓN FINAL DE LOS RESIDUOS PELIGROSOS - DEFINICIÓN DE RESIDUO PELIGROSO - EXCLUSIONES - RESIDUOS SÓLIDOS URBANOS - RESIDUOS PATOGÉNICOS - RES",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/293219",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 60,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=293219&idf=2",
+     "sha256": "e033932a2c367ad3b12317499e342fda9aba38eaafad614bbf6b5459d6d307b5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3871",
+   "short": "Ley 3.871",
+   "title": "Ley 3.871: LEY ADAPTACIÓN Y MITIGACIÓN AL CAMBIO CLIMÁTICO - OBJETO Y FINALIDAD - ACCIONES INSTRUMENTOS Y ESTRATEGIAS ADECUADAS - REDUCIR VULNERABILIDAD HUMANA Y SISTEMAS NATURALES PROTEGERLOS - EFECTOS ADVERSOS Y APROVECHAR BENEFICIOS - CONJUNTO DE ESTRATEGIAS - MEDIDAS POLÍTICAS E INSTRUMENTOS - A",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/181526",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 20,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=181526&idf=2",
+     "sha256": "11773fd89e5e23c51d290b6de5420abb535b6683766fe27e0b58f72f9a6aee91"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4351",
+   "short": "Ley 4.351",
+   "title": "Ley 4.351: CONTROL POBLACIONAL DE CANES Y FELINOS DOMÉSTICOS - AUTORIDAD DE APLICACIÓN DEPARTAMENTO DE SANIDAD Y PROTECCIÓN ANIMAL - MINISTERIO DE AMBIENTE Y ESPACIO PÚBLICO - CENTROS DE ATENCIÓN VETERINARIA COMUNAL- CAV - CENTROS MÓVILES DE ATENCIÓN VETERINARIA- CMAV - CAMPAÑA EXTIENDE POR MÁXIMO D",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/209450",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 26,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=209450&idf=2",
+     "sha256": "0550f11d2d1b0432e412546739a9288d0acb457668ae93a933100ae7877d23de"
+    }
+   ]
+  },
+  {
+   "slug": "ley-71",
+   "short": "Ley 71",
+   "title": "Ley 71: DISPONE LA CREACIÓN DEL CONSEJO DEL PLAN URBANO AMBIENTAL - ORGANISMO ENCARGADO DE LA FORMULACIÓN Y ACTUALIZACIÓN DEL PLAN URBANO AMBIENTAL - INTEGRACIÓN - COMPETENCIA EN ORDENAMIENTO TERRITORIAL Y AMBIENTAL - FUNCIONES - OBJETIVOS Y CRITERIOS ORIENTADORES - PLAZOS REVISIONES Y ACTUALIZACION",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/441",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 19,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=441&idf=1",
+     "sha256": "ce7d8de0c351a99d953b15f4e81aaf124e0fa9d432e3089b8b70059745b37f52"
+    }
+   ]
+  },
+  {
+   "slug": "ley-83",
+   "short": "Ley 83",
+   "title": "Ley 83: NORMAS A LAS QUE DEBERÁN ADECUARSE LA IMPOSICIÓN O MODIFICACIÓN DE NOMBRES RELACIONADAS CON LA NOMENCLATURA URBANA. COMISIÓN PERMANENTE - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACIÓN DEL DIGESTO JURÍDICO)",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/683",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 8,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=683&idf=1",
+     "sha256": "e53bdee8a051086ffad0d2aee90919422fbdac6efe8d87880dbb98ac0be7e103"
+    }
+   ]
+  },
+  {
+   "slug": "ley-941",
+   "short": "Ley 941",
+   "title": "Ley 941: CREA EL REGISTRO PÚBLICO DE ADMINISTRADORES DE CONSORCIOS DE PROPIEDAD HORIZONTAL DE CARÁCTER OBLIGATORIO - CONSORCIO DE PROPIETARIOS - REQUISITOS Y SANCIONES - OBLIGACIONES DEL ADMINISTRADOR - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACIÓN DEL DIGESTO JURÍDICO)",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/29885",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 34,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=29885&idf=1",
+     "sha256": "918450a48a4c8b6e8fb24bc94dd9572b1a49ab6f9cfde7972b2dc11364ba83dd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1251",
+   "short": "Ley 1.251",
+   "title": "Ley 1.251: MODIFICACIÓN - COMISIÓN MUNICIPAL DE LA VIVIENDA - CREACIÓN - INSTITUTO DE VIVIENDA - IVC - TRANSFORMACIÓN - CAMBIO DE DENOMINACIÓN - PROGRAMAS - ACCIONES - OBJETO - FACULTADES - CREACIÓN - BANCO DE INMUEBLES - INMUEBLES DEL GOBIERNO DE LA CIUDAD - INMUEBLES NACIONALES - INMUEBLES PROVINC",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/51484",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 19,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=51484&idf=1",
+     "sha256": "cad3e93c79712867bfabe07d7243d67ace94a838c7d94222f23aaf8c17a2b122"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2930",
+   "short": "Ley 2.930",
+   "title": "Ley 2.930: PLAN URBANO AMBIENTAL - PUA - APRUEBA DIAGNÓSTICO DE LA CIUDAD - NORMATIVA URBANÍSTICA - OBRAS PÚBLICAS - PLANEAMIENTO Y GESTIÓN DE LA CIUDAD - CIUDAD INTEGRADA - POLICÉNTRICA - PLURAL - SALUDABLE - DESARROLLO URBANO - RED CIRCULATORIA JERÁRQUICA - AUTOPISTAS - AVENIDAS PRINCIPALES - INFR",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/123445",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 32,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=123445&idf=2",
+     "sha256": "fd69de72a0d5bbc993d8010377658811129038e70a20fd045f8e61064a0fa307"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3343",
+   "short": "Ley 3.343",
+   "title": "Ley 3.343: URBANIZACIÓN DE LAS VILLAS 31 Y 31 BIS - CENSO POBLACIONAL - ADJUDICACIÓN PRIORITARIA DE LAS UNIDADES DE VIVIENDA A LOS ACTUALES HABITANTES - CREACIÓN MESA DE GESTIÓN Y PLANEAMIENTO MULTIDISCIPLINARIA Y PARTICIPATIVA - CELEBRACIÓN DE CONVENIOS - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/140635",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 12,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=140635&idf=1",
+     "sha256": "ba43fad063473dd41d4d4cb0449164caec19c1b7674bc75d10aab18c7b52c27b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5705",
+   "short": "Ley 5.705",
+   "title": "Ley 5.705: REURBANIZACIÓN ZONIFICACIÓN E INTEGRACIÓN SOCIO-URBANA VILLA 20 - CONSTRUCCIÓN DE VIVIENDAS - PROGRAMAS DE SOLUCIÓN HABITACIONAL - CREA MESA DE GESTIÓN PARTICIPATIVA - PROYECTO INTEGRAL DE REURBANIZACIÓN - ACCESO A CRÉDITO - INSTITUTO DE VIVIENDA DE LA CIUDAD - SUBSECRETARÍA DE HÁBITAT E ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/345782",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 28,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=345782&idf=1",
+     "sha256": "9d1d1f97eba9ec96f271b2f44a18830c644816af31188295a1871754c2bdb720"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5798",
+   "short": "Ley 5.798",
+   "title": "Ley 5.798: DISPONE REURBANIZACIÓN - ZONIFICACIÓN E INTEGRACIÓN SOCIAL- CULTURAL Y URBANA - BARRIO RODRIGO BUENO - CREA - MESA DE GESTIÓN PARTICIPATIVA MGP - OBJETO - GARANTIZAR E INSTRUMENTAR - PARTICIPACIÓN - VECINOS DEL BARRIO - INSTITUTO DE VIVIENDA DE LA CIUDAD - INDIVIDUAL - COLECTIVA - COMITÉ ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/357432",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 23,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=357432&idf=1",
+     "sha256": "53fef3b9398cbd640a9955df8308e088895ff832a6e971d42e1f9579732750ae"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5799",
+   "short": "Ley 5.799",
+   "title": "Ley 5.799: REURBANIZACIÓN - ZONIFICACIÓN E INTEGRACIÓN SOCIAL - CULTURAL - AMBIENTAL Y URBANA DEL BARRIO DENOMINADO PLAYÓN CHACARITA - PRINCIPIOS -IGUALDAD, DE JUSTICIA ESPACIAL, DE INTEGRACIÓN, DE NODISCRIMINACIÓN Y DEL DERECHO- POLIGONOEJE DE LA AVENIDA ELCANO, DESDE SU INTERSECCIÓN CON LA AVENIDA",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/357433",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 26,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=357433&idf=1",
+     "sha256": "afde6f95ca4834ca2b479ec71a2ef2b7299faa2b3acf02cdbd1728acb0ed24d9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2936",
+   "short": "Ley 2.936",
+   "title": "Ley 2.936: LEY CON VETO PARCIAL ACEPTADO - ACTIVIDAD PUBLICITARIA EXTERIOR - INSTALACIÓN DE MARQUESINAS PUBLICITARIAS - CARTELERÍA - FRENTISTAS - ACTIVIDAD PUBLICITARIA EXTERIOR - PUBLICIDAD - FRENTES - ANUNCIO - AVISO - LETRERO - ESTRUCTURAS - COLUMNAS - SOPORTES - MODIFICACION - CÓDIGO DE PLANEAMI",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/123093",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 37,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=123093&idf=3",
+     "sha256": "4564a12ef59dd5723855524994f5ceca3f1bb73765169be442e733db476c9c00"
+    }
+   ]
+  },
+  {
+   "slug": "ley-342",
+   "short": "Ley 342",
+   "title": "Ley 342: RÉGIMEN APLICABLE A LOS VEHÍCULOS ABANDONADOS EN LA VÍA PÚBLICA QUE PONEN EN PELIGRO LA SALUD DE LA POBLACIÓN LA SEGURIDAD PÚBLICA Y AFECTAN EL MEDIO AMBIENTE - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACIÓN DEL DIGESTO JURÍDICO).",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/6493",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 20,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=6493&idf=2",
+     "sha256": "13b3e44126f340938ef278b6f21f02eb078224537b18d77092ba4de2e6c43c6a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2148",
+   "short": "Ley 2.148",
+   "title": "Ley 2.148: APRUEBA EL CÓDIGO DE TRÁNSITO Y TRANSPORTE DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - DECLARA LA PLENA INTEGRACIÓN Y PARTICIPACIÓN EN EL SISTEMA NACIONAL DE SEGURIDAD VIAL - MODIFICA EL LIBRO II DEL RÉGIMEN DE FALTAS DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - LEY DE TRÁNSITO - PROMULGACIÓN CON ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/95322",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 16,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=95322&idf=2",
+     "sha256": "5b496c2bb211142ec03182f007f67fdbd66d1c2322735c0104425db1d8a16e1b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2265",
+   "short": "Ley 2.265",
+   "title": "Ley 2.265: ESTABLECE LA VERIFICACIÓN TÉCNICA VEHICULAR OBLIGATORIA PARA TODOS LOS VEHÍCULOS Y MOTOVEHÍCULOS QUE CIRCULEN POR LA CIUDAD AUTÓNOMA DE BUENOS AIRES - SEGURIDAD VIAL - TRÁNSITO - SANCIONES - VTV - NORMA CONSOLIDADA POR LEY 6.764 (5° ACTUALIZACIÓN DEL DIGESTO JURÍDICO).",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/95763",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 40,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=95763&idf=4",
+     "sha256": "f7e7ce5cc4dd9768e2e8aaae3d8d1e5e5b70d2575e2cb081e25d20e03d00f2fe"
+    }
+   ]
+  },
+  {
+   "slug": "ley-7",
+   "short": "Ley 7",
+   "title": "Ley 7: LEY ORGÁNICA DEL PODER JUDICIAL DE CIUDAD AUTÓNOMA DE BUENOS AIRES -ÓRGANOS - FUENTE Y ADMINISTRACIÓN DE LA JUSTICIA - JUECES Y JUEZAS - JUZGADOS - INDEPENDENCIA DE LA JUDICATURA - IMPARCIALIDAD DE LOS JUECES - DERECHOS LIBERTADES Y OBLIGACIONES - MAGISTRADOS - RECURSOS PRESUPUESTARIOS - PRES",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/23180",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 64,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=23180&idf=1",
+     "sha256": "b6578a00b60de983be631672684075e63abb7bec02c7ea6605a2c89cc5711d10"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12",
+   "short": "Ley 12",
+   "title": "Ley 12: FE DE ERRATAS - LEY DE PROCEDIMIENTO CONTRAVENCIONAL - INCLUYE EL CÓDIGO DE CONDUCTA PARA FUNCIONARIOS ENCARGADOS DE HACER CUMPLIR LA LEY - DERECHOS - COMPETENCIA - JUEZ - FISCAL - DEFENSA DEL IMPUTADO - INTÉRPRETE - TÉRMINOS - APLICACIÓN SUPLETORIA - CÓDIGO PROCESAL PENAL - EXCUSACIÓN - REC",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/23072",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 70,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=23072&idf=1",
+     "sha256": "d41478a54d8629b3e358f806f7171718c523acf81992565f70197469f06b2c16"
+    }
+   ]
+  },
+  {
+   "slug": "ley-31",
+   "short": "Ley 31",
+   "title": "Ley 31: LEY ORGÁNICA DEL CONSEJO DE LA MAGISTRATURA - PODER JUDICIAL - FUNCIONES - COMPETENCIAS - COMPOSICIÓN - REQUISITOS - REPRESENTANTES DE LA LEGISLATURA - JUECES Y JUEZAS - ABOGADOS Y ABOGADAS - DURACIÓN - JURAMENTOS O COMPROMISO - INAMOVILIDAD - REMOCIÓN - INCOMPATIBILIDADES - INHABILIDADES - ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/23127",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 52,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=23127&idf=1",
+     "sha256": "22175ab519f70ede66e3ac1e7a74745865f59d28f77c5de76e8af2f98dba4188"
+    }
+   ]
+  },
+  {
+   "slug": "ley-189",
+   "short": "Ley 189",
+   "title": "Ley 189: FE DE ERRATAS. APRUEBA CÓDIGO CONTENCIOSO ADMINISTRATIVO Y TRIBUTARIO DE LA CIUDAD DE BUENOS AIRES - MODIFICA LEY 7 - ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD - INSTANCIA ORDINARIA DE APELACIÓN ANTE EL TRIBUNAL SUPERIOR DE JUSTICIA - SUSTITUCIÓN DE LOS JUECES Y JUEZAS DE LAS CÁMARAS DE APEL",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/4172",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 479,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=4172&idf=1",
+     "sha256": "90ca77787e285f28eea67f7811dc67971f5b20ebe47352e94edef976d20d7d15"
+    }
+   ]
+  },
+  {
+   "slug": "ley-269",
+   "short": "Ley 269",
+   "title": "Ley 269: CREA EL REGISTRO DE DEUDORES/AS ALIMENTARIOS/AS MOROSOS/AS - ESTABLECE LAS FUNCIONES REQUISITOS PARA LA INSCRIPCIÓN Y CESE CONSECUENCIAS LIMITACIONES Y RESTRICCIONES PARA LOS INSCRIPTOS EN EL ÁMBITO DEL GOBIERNO DE LA CIUDAD - CONDICIONES PARA PRESTADORES Y PROOVERDORES - NORMA CONSOLIDADA ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/5752",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 22,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=5752&idf=2",
+     "sha256": "f77c3ead3eec7f7df3edc560718ba3642d75f929f101f7c449f95d428e54f057"
+    }
+   ]
+  },
+  {
+   "slug": "ley-451",
+   "short": "Ley 451",
+   "title": "Ley 451: RÉGIMEN DE FALTAS DE LA CIUDAD DE BUENOS AIRES - ACCIÓN - SANCIONES - INDIVIDUALIZACIÓN DE LAS SANCIONES POR FALTAS - REGISTRO DE ANTECEDENTES DE FALTAS - BROMATOLÓGICAS - HIGIENE Y SANIDAD - AMBIENTE - RESIDUOS PATOGÉNICOS - SUSTANCIAS DENOMINADAS GENÉRICAMENTE PCB´S - REGISTROS - SEGURIDA",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/8540",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 48,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=8540&idf=2",
+     "sha256": "f05c5b6628726bfb0bcaebfdd949de8e58e45d34528e917f7a5f35c3b319c412"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1217",
+   "short": "Ley 1.217",
+   "title": "Ley 1.217: APRUEBA PROCEDIMIENTO DE FALTAS DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - DEROGA NORMAS - APROBACIÓN - ACTAS DE INFRACCIÓN - PODER DE POLICÍA - SISTEMA DE CONTROL INTELIGENTE DE INFRACCIONES DE TRÁNSITO - UNIDAD ADMINISTRATIVA DE CONTROL DE FALTAS - FUNCIONES - AUDIENCIA DE DESCARGO - INFRA",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/50981",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 76,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=50981&idf=17",
+     "sha256": "42d6038f9661a345e7589cc6d02b51182010e09bb0957cd9fd20c5471d0816e5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1472",
+   "short": "Ley 1.472",
+   "title": "Ley 1.472: TEXTO ORDENADO POR DECRETO 362/24 (BOLETIN OFICIAL 7002 DEL 20/11/2024) - APRUEBA EL CÓDIGO CONTRAVENCIONAL DE LA CIUDAD AUTONOMA DE BUENOS AIRES - DEROGACION DEL CODIGO DE CONVIVENCIA - CONTRAVENCIONES - LESIVIDAD - SANCIONES - MENORES DE EDAD - IMPUTABLES - CONTRAVENCIONES DE TRANSITO -",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/62598",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 150,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=62598&idf=3",
+     "sha256": "46519ec27e78701c5fe7946b466fccf2a62e49e2279fd94926a4a851bdc19ad9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1903",
+   "short": "Ley 1.903",
+   "title": "Ley 1.903: LEY ORGÁNICA - MINISTERIO PÚBLICO - GARANTÍA - TRANSFERENCIA DEL MINISTERIO PÚBLICO DE LA NACIÓN - INTEGRACIÓN DEL MINISTERIO - CÁMARA DE APELACIONES CONTENCIOSO ADMINISTRATIVO Y TRIBUTARIO DE LA CIUDAD - JUZGADOS DE PRIMERA INSTANCIA CONTRAVENCIONAL Y DE FALTAS - MINISTERIO PÚBLICO DE LA",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/82100",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 60,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=82100&idf=1",
+     "sha256": "897a3d16d6d0a754f4359a0f6e0930670af52656467f618d152b96d8dc4a2862"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2303",
+   "short": "Ley 2.303",
+   "title": "Ley 2.303: APRUEBA EL CÓDIGO PROCESAL PENAL DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - EJERCICIO DE LA JURISDICCIÓN - SUJETOS PASIVOS DEL PROCESO - DERECHOS DEL IMPUTADO - CAPACIDAD - DERECHO DE DEFENSA - DEFENSOR OFICIAL - DESIGNACIÓN - DERECHO DE LA VÍCTIMAS Y TESTIGOS - INFORMACIÓN - ACTOS PROCESALE",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/98678",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 366,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=98678&idf=2",
+     "sha256": "5c22061f0e278c806c8db879eb2cc8d9ea3bdfe8307aab7ab59892169bc27fde"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2451",
+   "short": "Ley 2.451",
+   "title": "Ley 2.451: RÉGIMEN PROCESAL PENAL JUVENIL DE LA CIUDAD DE BUENOS AIRES - DISPOSICIONES GENERALES - ÁMBITO PERSONAL - INTERPRETACIÓN - PRESUNCIÓN - INCOMPETENCIA Y REMISIÓN - VALIDEZ DE LAS ACTUACIONES - PARTICIPACIÓN DE SUJETOS MAYORES Y SUJETOS MENORES PARA LA JUSTICIA PENAL - COMPETENCIA EN RAZÓN ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/109794",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 94,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=109794&idf=26",
+     "sha256": "e4f8058f912e2789ea6a8a6f0c4f60ed41ef3e8611ecb0c680ccb171a4840f91"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4830",
+   "short": "Ley 4.830",
+   "title": "Ley 4.830: ESTABLECE EL RÉGIMEN DE PENALIDADES PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL DE LA CIUDAD DE BUENOS AIRES - BIENES INTEGRANTES - INCORPORA AL ANEXO I LIBRO II LEY 451 RÉGIMEN DE FALTAS LA SECCIÓN 12 PATRIMONIO CULTURAL DE LA CABA - REQUISITOS - INCUMPLIMIENTO - SANCIONES - MULTAS - ÓRGA",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/237612",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 5,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=237612&idf=1",
+     "sha256": "16b98da22e7e156ab013ccdd7207e6218578de8c3fc22d053fffa1d795b6f121"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5134",
+   "short": "Ley 5.134",
+   "title": "Ley 5.134: LEY DE HONORARIOS PROFESIONALES DE ABOGADOS Y PROCURADORES DE LA CIUDAD AUTÓNOMA DE BUENOS AIRES - LETRADOS - ACTIVIDAD JUDICIAL - EXTRAJUDICIAL - ADMINISTRATIVA - TRÁMITE DE MEDIACIÓN - PATROCINANTES - PATROCINIO - APODERADOS - CONTRATOS - PACTO DE CUOTA LITIS - PORCENTAJES - PROCESO - C",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/264117",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 64,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=264117&idf=1",
+     "sha256": "b759d721775a7a074ca773e208843f136f1b58cf96d4e1e76140b40d5e8dc4cd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5345",
+   "short": "Ley 5.345",
+   "title": "Ley 5.345: CREA JUNTA DE FALTAS - COMPETENCIAS Y FUNCIONES - CREA CUERPO DE AGENTES FISCALES - MODIFICA LEY 1217 - DESIGNA AUTORIDAD DE APLICACIÓN - PROCEDIMIENTO DE FALTAS - CUERPO DE CONTROLADORES ADMINISTRATIVOS DE CONTROL DE FALTAS - MIEMBROS - INTEGRANTES - CUERPO DE AGENTES FISCALES - AGENTES ",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/292008",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 5,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=292008&idf=1",
+     "sha256": "d75c92605e0f464368976b75a8623c5dcee36dd3f322370067c6b437c739ce45"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5448",
+   "short": "Ley 5.448",
+   "title": "Ley 5.448: CREA RÉGIMEN DE ADECUACIÓN - ESTABLECIMIENTOS HOSPITALARIOS PRIVADOS EN SEGURIDAD EDILICIA - ASISTENCIALES - HOSPITALES - HOSPITALES PERTENECIENTES FUERZAS ARMADAS Y SEGURIDAD - CLÍNICAS Y SANATORIOS - LINEAMIENTOS GENERALES DE SEGURIDAD - PREVENCIÓN DE ACCIDENTES - NORMATIVA VI GENTE - I",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/302716",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 9,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=302716&idf=1",
+     "sha256": "9a9b4a5904ad6dd2c2b67c38ae444e3be7b69a4be6ceb8245c1c9acef571522a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5468",
+   "short": "Ley 5.468",
+   "title": "Ley 5.468: CREA BASE DE DATOS - BDII - INFORMACIÓN CONTRA INCENDIOS - SUSTANCIAS INFLAMABLES Y PELIGROSAS - LOCALIZACIÓN EN INMUEBLES - FACILITAR LA ACCIÓN - AGENTES PÚBLICOS Y BOMBEROS - IMPACTO DE DAÑOS - ZONAS ALEDAÑAS - MINIMIZAR EL RIESGO DE VIDAS - INCENDIOS Y EXPLOSIONES - ESTABLECIMIENTOS IN",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/302720",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 12,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=302720&idf=1",
+     "sha256": "94d0cd17a9fc4249df508846bfe53c5434539ea13dd2dfa410922bd4ca94b40a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2939",
+   "short": "Ley 2.939",
+   "title": "Ley 2.939: GARANTIZA LA ASISTENCIA Y CONTENCIÓN DE LOS QUERELLANTES Y TESTIGOS VÍCTIMAS DEL TERRORISMO DE ESTADO EN LAS CAUSAS JUDICIALES O INVESTIGACIONES RELATIVAS A LOS DELITOS DE CRÍMENES DE LESA HUMANIDAD - JUICIOS - TERRORISMO DE ESTADO - DICTADURA - ARTICULACIÓN CON EL PODER JUDICIAL DE LA NA",
+   "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/124025",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 9,
+     "source_url": "https://boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=124025&idf=1",
+     "sha256": "091f22e53462b13c3d296dca05f4d3a637637dfc1c19d5cf163dc32b1cfd0bbe"
+    }
+   ]
+  }
+ ]
+}
